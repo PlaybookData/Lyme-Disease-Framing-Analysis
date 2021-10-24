@@ -13,4 +13,4 @@ Notebooks:
 
 Lyme_Disease_Analysis.ipynb = data acquistion
 
-DataAnalysis.ipynb = tokenisation, normalisation, intial EDA
+DataAnalysis.ipynb = tokenisation, normalisation, EDA, LDA
