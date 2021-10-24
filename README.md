@@ -11,6 +11,6 @@ Additional processing is ongoing.
 
 Notebooks:
 
-Lyme_Disease_Analysis.ipynb = data acquistion
+Data_Acquisition.ipynb = data acquistion, web scraping etc.
 
 DataAnalysis.ipynb = tokenisation, normalisation, EDA, LDA
