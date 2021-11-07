@@ -1,0 +1,4762 @@
+﻿[
+	{
+		"type": "Article",
+		"title": "Hyporesponsiveness to vaccination with Borrelia burgdorferi OspA in humans and in TLR1- and TLR2-deficient mice",
+		"authors": [
+			{
+				"name": "L. Alexopoulou",
+				"affiliation": "Yale School of Medicine, New Haven, United States"
+			}
+		],
+		"source": "Nature Medicine",
+		"year": 2002,
+		"volume": 8,
+		"issue": 8,
+		"startpage": 878,
+		"endpage": 884,
+		"doi": "10.1038/nm732",
+		"issn": "1078-8956",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036344106",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036344106&origin=inward",
+		"cites": 365,
+		"ecc": 365,
+		"rank": 1,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Host association of Borrelia burgdorferi sensu lato - The key role of host complement",
+		"authors": [
+			{
+				"name": "K. Kurtenbach",
+				"affiliation": "Imperial College London, London, United Kingdom"
+			}
+		],
+		"source": "Trends in Microbiology",
+		"year": 2002,
+		"volume": 10,
+		"issue": 2,
+		"startpage": 74,
+		"endpage": 79,
+		"doi": "10.1016/S0966-842X(01)02298-3",
+		"issn": "0966-842X",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0966842X01022983",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036468506",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036468506&origin=inward",
+		"cites": 312,
+		"ecc": 312,
+		"rank": 2,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "DNA microarray analysis of differential gene expression in Borrelia burgdorferi, the Lyme disease spirochete",
+		"authors": [
+			{
+				"name": "A. Revel",
+				"affiliation": "UT Southwestern Medical School, Dallas, United States"
+			}
+		],
+		"source": "Proceedings of the National Academy of Sciences of the United States of America",
+		"year": 2002,
+		"volume": 99,
+		"issue": 3,
+		"startpage": 1562,
+		"endpage": 1567,
+		"doi": "10.1073/pnas.032667699",
+		"issn": "0027-8424",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037022354",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037022354&origin=inward",
+		"cites": 276,
+		"ecc": 276,
+		"rank": 3,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Aluminum salts in vaccines - US perspective",
+		"authors": [
+			{
+				"name": "N.W. Baylor",
+				"affiliation": "FDA Center for Biologics Evaluation and Research, Bethesda, United States"
+			}
+		],
+		"source": "Vaccine",
+		"year": 2002,
+		"volume": 20,
+		"doi": "10.1016/S0264-410X(02)00166-4",
+		"issn": "0264-410X",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0264410X02001664",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205207",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205207&origin=inward",
+		"cites": 266,
+		"ecc": 266,
+		"rank": 4,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Toll-like receptor 2 is required for innate, but not acquired, host defense to Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "R.M. Wooten",
+				"affiliation": "University of Utah School of Medicine, Salt Lake City, United States"
+			}
+		],
+		"source": "Journal of Immunology",
+		"year": 2002,
+		"volume": 168,
+		"issue": 1,
+		"startpage": 348,
+		"endpage": 355,
+		"doi": "10.4049/jimmunol.168.1.348",
+		"issn": "0022-1767",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036134858",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036134858&origin=inward",
+		"cites": 258,
+		"ecc": 258,
+		"rank": 5,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Clonal polymorphism of Borrelia burgdorferi strain B31 MI: Implications for mutagenesis in an infectious strain background",
+		"authors": [
+			{
+				"name": "A. Elias",
+				"affiliation": "Charité – Universitätsmedizin Berlin, Berlin, Germany"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 4,
+		"startpage": 2139,
+		"endpage": 2150,
+		"doi": "10.1128/IAI.70.4.2139-2150.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036126988",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036126988&origin=inward",
+		"cites": 252,
+		"ecc": 252,
+		"rank": 6,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Exploring the sialome of the tick Ixodes scapularis",
+		"authors": [
+			{
+				"name": "J. Valenzuela",
+				"affiliation": "National Institute of Allergy and Infectious Diseases (NIAID), Bethesda, United States"
+			}
+		],
+		"source": "Journal of Experimental Biology",
+		"year": 2002,
+		"volume": 205,
+		"issue": 18,
+		"startpage": 2843,
+		"endpage": 2864,
+		"issn": "0022-0949",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036749806",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036749806&origin=inward",
+		"cites": 238,
+		"ecc": 238,
+		"rank": 7,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Ixolaris, a novel recombinant tissue factor pathway inhibitor (TFPI) from the salivary gland of the tick, Ixodes scapularis: Identification of factor X and factor Xa as scaffolds for the inhibition of factor VIIa/tissue factor complex",
+		"authors": [
+			{
+				"name": "I.M.B. Francischetti",
+				"affiliation": "National Institute of Allergy and Infectious Diseases (NIAID), Bethesda, United States"
+			}
+		],
+		"source": "Blood",
+		"year": 2002,
+		"volume": 99,
+		"issue": 10,
+		"startpage": 3602,
+		"endpage": 3612,
+		"doi": "10.1182/blood-2001-12-0237",
+		"issn": "0006-4971",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0006497120608382",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037093065",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037093065&origin=inward",
+		"cites": 216,
+		"ecc": 216,
+		"rank": 8,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Predicting the risk of Lyme disease: Habitat suitability for Ixodes scapularis in the north central United States",
+		"authors": [
+			{
+				"name": "M. Guerra",
+				"affiliation": "University of Illinois Urbana-Champaign, Urbana, United States"
+			}
+		],
+		"source": "Emerging Infectious Diseases",
+		"year": 2002,
+		"volume": 8,
+		"issue": 3,
+		"startpage": 289,
+		"endpage": 297,
+		"doi": "10.3201/eid0803.010166",
+		"issn": "1080-6040",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036193887",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036193887&origin=inward",
+		"cites": 214,
+		"ecc": 214,
+		"rank": 9,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Genetics of motility and chemotaxis of a fascinating group of bacteria: The spirochetes",
+		"authors": [
+			{
+				"name": "N.W. Charon",
+				"affiliation": "WVU Health Sciences Center Morgantown, Morgantown, United States"
+			}
+		],
+		"source": "Annual Review of Genetics",
+		"year": 2002,
+		"volume": 36,
+		"startpage": 47,
+		"endpage": 73,
+		"doi": "10.1146/annurev.genet.36.041602.134359",
+		"issn": "0066-4197",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036948288",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036948288&origin=inward",
+		"cites": 203,
+		"ecc": 203,
+		"rank": 10,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Geographic uniformity of the lyme disease spirochete (Borrelia burgdorferi) and its shared history with tick vector (Ixodes scapularis) in the Northeastern United States",
+		"authors": [
+			{
+				"name": "W.G. Qiu",
+				"affiliation": "Institute for Bioscience and Biotechnology Research, Rockville, United States"
+			}
+		],
+		"source": "Genetics",
+		"year": 2002,
+		"volume": 160,
+		"issue": 3,
+		"startpage": 833,
+		"endpage": 849,
+		"issn": "0016-6731",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036200448",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036200448&origin=inward",
+		"cites": 192,
+		"ecc": 192,
+		"rank": 11,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Clinical characteristics and treatment outcome of early lyme disease in patients with microbiologically confirmed erythema migrans",
+		"authors": [
+			{
+				"name": "R. Smith",
+				"affiliation": "Maine Medical Center Research Institute, Scarborough, United States"
+			}
+		],
+		"source": "Annals of Internal Medicine",
+		"year": 2002,
+		"volume": 136,
+		"issue": 6,
+		"startpage": 421,
+		"endpage": 428,
+		"doi": "10.7326/0003-4819-136-6-200203190-00005",
+		"issn": "0003-4819",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037133548",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037133548&origin=inward",
+		"cites": 183,
+		"ecc": 183,
+		"rank": 12,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Human granulocyte ehrlichiosis in Europe",
+		"authors": [
+			{
+				"name": "J. Blanco",
+				"affiliation": "Hospital de La Rioja, Logrono, Spain"
+			}
+		],
+		"source": "Clinical Microbiology and Infection",
+		"year": 2002,
+		"volume": 8,
+		"issue": 12,
+		"startpage": 763,
+		"endpage": 772,
+		"doi": "10.1046/j.1469-0691.2002.00557.x",
+		"issn": "1198-743X",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1198743X14625192",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036883044",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036883044&origin=inward",
+		"cites": 179,
+		"ecc": 179,
+		"rank": 13,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Differential binding of host complement inhibitor factor H by Borrelia burgdorferi Erp surface proteins: A possible mechanism underlying the expansive host range of Lyme disease spirochetes",
+		"authors": [
+			{
+				"name": "B. Stevenson",
+				"affiliation": "University of Kentucky College of Medicine, Lexington, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 2,
+		"startpage": 491,
+		"endpage": 497,
+		"doi": "10.1128/IAI.70.2.491-497.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036156137",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036156137&origin=inward",
+		"cites": 177,
+		"ecc": 177,
+		"rank": 14,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Disease-specific diagnosis of coinfecting tickborne zoonoses: Babesiosis, human granulocytic ehrlichiosis, and Lyme disease",
+		"authors": [
+			{
+				"name": "P.J. Krause",
+				"affiliation": "School of Medicine, Farmington, United States"
+			}
+		],
+		"source": "Clinical Infectious Diseases",
+		"year": 2002,
+		"volume": 34,
+		"issue": 9,
+		"startpage": 1184,
+		"endpage": 1191,
+		"doi": "10.1086/339813",
+		"issn": "1058-4838",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036569757",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036569757&origin=inward",
+		"cites": 175,
+		"ecc": 175,
+		"rank": 15,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Never say never again: Protein glycosylation in pathogenic bacteria",
+		"authors": [
+			{
+				"name": "I. Benz",
+				"affiliation": "Universitätsklinikum Münster, Munster, Germany"
+			}
+		],
+		"source": "Molecular Microbiology",
+		"year": 2002,
+		"volume": 45,
+		"issue": 2,
+		"startpage": 267,
+		"endpage": 276,
+		"doi": "10.1046/j.1365-2958.2002.03030.x",
+		"issn": "0950-382X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036067107",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036067107&origin=inward",
+		"cites": 168,
+		"ecc": 168,
+		"rank": 16,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Molecular adaptation of Borrelia burgdorferi in the murine host",
+		"authors": [
+			{
+				"name": "F. Liang",
+				"affiliation": "School of Medicine, Nashville, United States"
+			}
+		],
+		"source": "Journal of Experimental Medicine",
+		"year": 2002,
+		"volume": 196,
+		"issue": 2,
+		"startpage": 275,
+		"endpage": 280,
+		"doi": "10.1084/jem.20020770",
+		"issn": "0022-1007",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037099692",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037099692&origin=inward",
+		"cites": 163,
+		"ecc": 163,
+		"rank": 17,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Annual incidence of inflammatory joint diseases in a population based study in southern Sweden",
+		"authors": [
+			{
+				"name": "M.K. Söderlin",
+				"affiliation": "Central Hospital Vaxo, Vaxjo, Sweden"
+			}
+		],
+		"source": "Annals of the Rheumatic Diseases",
+		"year": 2002,
+		"volume": 61,
+		"issue": 10,
+		"startpage": 911,
+		"endpage": 915,
+		"doi": "10.1136/ard.61.10.911",
+		"issn": "0003-4967",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036786252",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036786252&origin=inward",
+		"cites": 159,
+		"ecc": 159,
+		"rank": 18,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "An immune evasion mechanism for spirochetal persistence in Lyme borreliosis",
+		"authors": [
+			{
+				"name": "F.T. Liang",
+				"affiliation": "Tulane National Primate Research Center, Covington, United States"
+			}
+		],
+		"source": "Journal of Experimental Medicine",
+		"year": 2002,
+		"volume": 195,
+		"issue": 4,
+		"startpage": 415,
+		"endpage": 422,
+		"doi": "10.1084/jem.20011870",
+		"issn": "0022-1007",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037128163",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037128163&origin=inward",
+		"cites": 147,
+		"ecc": 147,
+		"rank": 19,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Complement inhibitor factor H binding to lyme disease spirochetes is mediated by inducible expression of multiple plasmid-encoded outer surface protein E paralogs",
+		"authors": [
+			{
+				"name": "A. Alitalo",
+				"affiliation": "Helsingin Yliopisto, Helsinki, Finland"
+			}
+		],
+		"source": "Journal of Immunology",
+		"year": 2002,
+		"volume": 169,
+		"issue": 7,
+		"startpage": 3847,
+		"endpage": 3853,
+		"doi": "10.4049/jimmunol.169.7.3847",
+		"issn": "0022-1767",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036784619",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036784619&origin=inward",
+		"cites": 133,
+		"ecc": 133,
+		"rank": 20,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Vector interactions and molecular adaptations of Lyme disease and relapsing fever spirochetes associated with transmission by ticks",
+		"authors": [
+			{
+				"name": "T. Schwan",
+				"affiliation": "NIAID Rocky Mountain Laboratories, Hamilton, United States"
+			}
+		],
+		"source": "Emerging Infectious Diseases",
+		"year": 2002,
+		"volume": 8,
+		"issue": 2,
+		"startpage": 115,
+		"endpage": 121,
+		"doi": "10.3201/eid0802.010198",
+		"issn": "1080-6040",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036199104",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036199104&origin=inward",
+		"cites": 129,
+		"ecc": 129,
+		"rank": 21,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Immunomodulatory effects of vitamin D receptor ligands in autoimmune diseases",
+		"authors": [
+			{
+				"name": "L. Adorini",
+				"affiliation": "BioXell S.p.A., Segrate, Italy"
+			}
+		],
+		"source": "International Immunopharmacology",
+		"year": 2002,
+		"volume": 2,
+		"issue": 7,
+		"startpage": 1017,
+		"endpage": 1028,
+		"doi": "10.1016/S1567-5769(02)00049-8",
+		"issn": "1567-5769",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1567576902000498",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036314826",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036314826&origin=inward",
+		"cites": 127,
+		"ecc": 127,
+		"rank": 22,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Disease severity in a murine model of Lyme borreliosis is associated with the genotype of the infecting Borrelia burgdorferi sensu stricto strain",
+		"authors": [
+			"G. Wang"
+		],
+		"source": "Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 186,
+		"issue": 6,
+		"startpage": 782,
+		"endpage": 791,
+		"doi": "10.1086/343043",
+		"issn": "0022-1899",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037105636",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037105636&origin=inward",
+		"cites": 119,
+		"ecc": 119,
+		"rank": 23,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Investigations on the mode and dynamics of transmission and infectivity of Borrelia burgdorferi sensu stricto and Borrelia afzelii in Ixodes ricinus ticks.",
+		"authors": [
+			{
+				"name": "M. Crippa",
+				"affiliation": "Universite de Neuchatel, Institut de Zoologie, Neuchatel, Switzerland"
+			}
+		],
+		"source": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+		"year": 2002,
+		"volume": 2,
+		"issue": 1,
+		"startpage": 3,
+		"endpage": 9,
+		"doi": "10.1089/153036602760260724",
+		"issn": "1530-3667",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037900067",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037900067&origin=inward",
+		"cites": 117,
+		"ecc": 117,
+		"rank": 24,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Identification of loci critical for replication and compatibility of a Borrelia burgdorferi cp32 plasmid and use of a cp32-based shuttle vector for the expression of fluorescent reporters in the Lyme disease spirochaete",
+		"authors": [
+			{
+				"name": "C. Eggers",
+				"affiliation": "UConn Health, Farmington, United States"
+			}
+		],
+		"source": "Molecular Microbiology",
+		"year": 2002,
+		"volume": 43,
+		"issue": 2,
+		"startpage": 281,
+		"endpage": 295,
+		"doi": "10.1046/j.1365-2958.2002.02758.x",
+		"issn": "0950-382X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036166738",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036166738&origin=inward",
+		"cites": 114,
+		"ecc": 114,
+		"rank": 25,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Seroprevalence of Babesia infections in humans exposed to ticks in midwestern Germany",
+		"authors": [
+			{
+				"name": "K.P. Hunfeld",
+				"affiliation": "Universitätsklinikum Frankfurt, Frankfurt am Main, Germany"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 7,
+		"startpage": 2431,
+		"endpage": 2436,
+		"doi": "10.1128/JCM.40.7.2431-2436.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036308461",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036308461&origin=inward",
+		"cites": 113,
+		"ecc": 113,
+		"rank": 26,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "5-y follow-up study of patients with neuroborreliosis",
+		"authors": [
+			{
+				"name": "J. Berglund",
+				"affiliation": "Lunds Universitet, Lund, Sweden"
+			}
+		],
+		"source": "Scandinavian Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 34,
+		"issue": 6,
+		"startpage": 421,
+		"endpage": 425,
+		"doi": "10.1080/00365540110080421",
+		"issn": "0036-5548",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0035990579",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0035990579&origin=inward",
+		"cites": 105,
+		"ecc": 105,
+		"rank": 27,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Epidemiology and impact of coinfections acquired from Ixodes ticks.",
+		"authors": [
+			{
+				"name": "E. Belongia",
+				"affiliation": "Marshfield Clinic, Marshfield, United States"
+			}
+		],
+		"source": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+		"year": 2002,
+		"volume": 2,
+		"issue": 4,
+		"startpage": 265,
+		"endpage": 273,
+		"doi": "10.1089/153036602321653851",
+		"issn": "1530-3667",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0142143871",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0142143871&origin=inward",
+		"cites": 104,
+		"ecc": 104,
+		"rank": 28,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Crystal structure of Lyme disease variable surface antigen VlsE of Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "C. Eicken",
+				"affiliation": "Texas A and M Health Science Center, College Station, United States"
+			}
+		],
+		"source": "Journal of Biological Chemistry",
+		"year": 2002,
+		"volume": 277,
+		"issue": 24,
+		"startpage": 21691,
+		"endpage": 21696,
+		"doi": "10.1074/jbc.M201547200",
+		"issn": "0021-9258",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0021925820704278",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037077273",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037077273&origin=inward",
+		"cites": 104,
+		"ecc": 104,
+		"rank": 29,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Intramuscular injection: An integrative research review and guideline for evidence-based practice",
+		"authors": [
+			{
+				"name": "L.H. Nicoll",
+				"affiliation": "University of Southern Maine, Portland, United States"
+			}
+		],
+		"source": "Applied Nursing Research",
+		"year": 2002,
+		"volume": 15,
+		"issue": 3,
+		"startpage": 149,
+		"endpage": 162,
+		"doi": "10.1053/apnr.2002.34142",
+		"issn": "0897-1897",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0897189702000046",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036689188",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036689188&origin=inward",
+		"cites": 99,
+		"ecc": 99,
+		"rank": 30,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Foci of tick-borne diseases in Southwest Germany",
+		"authors": [
+			{
+				"name": "R. Oehme",
+				"affiliation": "State Health Office Baden-Wuerttemberg, Germany"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 22,
+		"endpage": 29,
+		"doi": "10.1016/S1438-4221(02)80005-4",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800054",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036066576",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036066576&origin=inward",
+		"cites": 98,
+		"ecc": 98,
+		"rank": 31,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Detection of attenuated, noninfectious spirochetes in Borrelia burgdorferi-infected mice after antibiotic treatment",
+		"authors": [
+			{
+				"name": "L. Bockenstedt",
+				"affiliation": "Yale School of Medicine, New Haven, United States"
+			}
+		],
+		"source": "Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 186,
+		"issue": 10,
+		"startpage": 1430,
+		"endpage": 1437,
+		"doi": "10.1086/345284",
+		"issn": "0022-1899",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037111030",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037111030&origin=inward",
+		"cites": 89,
+		"ecc": 89,
+		"rank": 32,
+		"use": true
+	},
+	{
+		"type": "Note",
+		"title": "Dust in the wind",
+		"authors": [
+			"D.A. Taylor"
+		],
+		"source": "Environmental Health Perspectives",
+		"year": 2002,
+		"volume": 110,
+		"issue": 2,
+		"doi": "10.1289/ehp.110-a80",
+		"issn": "0091-6765",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036181908",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036181908&origin=inward",
+		"cites": 89,
+		"ecc": 89,
+		"rank": 33,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Wild animals as reservoirs of infectious diseases in the UK",
+		"authors": [
+			{
+				"name": "V. Simpson",
+				"affiliation": "Wildlife Veterinary Investigation Centre, Truro, United Kingdom"
+			}
+		],
+		"source": "Veterinary Journal",
+		"year": 2002,
+		"volume": 163,
+		"issue": 2,
+		"startpage": 128,
+		"endpage": 146,
+		"doi": "10.1053/tvjl.2001.0662",
+		"issn": "1090-0233",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1090023301906628",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036491106",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036491106&origin=inward",
+		"cites": 85,
+		"ecc": 85,
+		"rank": 34,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Increasing habitat suitability in the United States for the tick that transmits Lyme disease: A remote sensing approach",
+		"authors": [
+			{
+				"name": "A. Estrada-Peña",
+				"affiliation": "Faculty of Veterinary Medicine, Zaragoza, Spain"
+			}
+		],
+		"source": "Environmental Health Perspectives",
+		"year": 2002,
+		"volume": 110,
+		"issue": 7,
+		"startpage": 635,
+		"endpage": 640,
+		"doi": "10.1289/ehp.02110635",
+		"issn": "0091-6765",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036057468",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036057468&origin=inward",
+		"cites": 85,
+		"ecc": 85,
+		"rank": 35,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Laboratory and field evaluation of the entomopathogenic fungus Metarhizium anisopliae (Deuteromycetes) for controlling questing adult Ixodes scapularis (Acari: Ixodidae)",
+		"authors": [
+			{
+				"name": "M. Benjamin",
+				"affiliation": "Kent School, Kent, United States"
+			}
+		],
+		"source": "Journal of Medical Entomology",
+		"year": 2002,
+		"volume": 39,
+		"issue": 5,
+		"startpage": 723,
+		"endpage": 728,
+		"doi": "10.1603/0022-2585-39.5.723",
+		"issn": "0022-2585",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036725360",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036725360&origin=inward",
+		"cites": 84,
+		"ecc": 84,
+		"rank": 36,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Distribution of clinically relevant Borrelia genospecies in ticks assessed by a novel, single-run, real-time PCR",
+		"authors": [
+			{
+				"name": "C. Rauter",
+				"affiliation": "Universität Konstanz, Konstanz, Germany"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 1,
+		"startpage": 36,
+		"endpage": 43,
+		"doi": "10.1128/JCM.40.1.36-43.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036134980",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036134980&origin=inward",
+		"cites": 84,
+		"ecc": 84,
+		"rank": 37,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "ResT, a telomere resolvase encoded by the Lyme disease spirochete",
+		"authors": [
+			{
+				"name": "K. Kobryn",
+				"affiliation": "The University of Western Ontario, London, Canada"
+			}
+		],
+		"source": "Molecular Cell",
+		"year": 2002,
+		"volume": 9,
+		"issue": 1,
+		"startpage": 195,
+		"endpage": 201,
+		"doi": "10.1016/S1097-2765(01)00433-6",
+		"issn": "1097-2765",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1097276501004336",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036161673",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036161673&origin=inward",
+		"cites": 82,
+		"ecc": 82,
+		"rank": 38,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Recruitment of dendritic cells to the cerebrospinal fluid in bacterial neuroinfections",
+		"authors": [
+			{
+				"name": "M. Pashenkov",
+				"affiliation": "Karolinska Universitetssjukhuset, Stockholm, Sweden"
+			}
+		],
+		"source": "Journal of Neuroimmunology",
+		"year": 2002,
+		"volume": 122,
+		"issue": 1,
+		"startpage": 106,
+		"endpage": 116,
+		"doi": "10.1016/S0165-5728(01)00451-9",
+		"issn": "0165-5728",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0165572801004519",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036147323",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036147323&origin=inward",
+		"cites": 82,
+		"ecc": 82,
+		"rank": 39,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Lyme disease - United States, 2000",
+		"authors": [
+			"S. Marshall"
+		],
+		"source": "Morbidity and Mortality Weekly Report",
+		"year": 2002,
+		"volume": 51,
+		"issue": 2,
+		"startpage": 29,
+		"endpage": 31,
+		"issn": "0149-2195",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0039488442",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0039488442&origin=inward",
+		"cites": 81,
+		"ecc": 81,
+		"rank": 40,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Characterization of Borrelia burgdorferi sensu lato strains isolated from human material in Slovenia",
+		"authors": [
+			{
+				"name": "E. Ružić-Sabljić",
+				"affiliation": "Univerza v Ljubljani, Ljubljana, Slovenia"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 544,
+		"endpage": 550,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205668",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205668&origin=inward",
+		"cites": 81,
+		"ecc": 81,
+		"rank": 41,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Seroprevalence of antibodies that react with Anaplasma phagocytophila, the agent of human granulocytic ehrlichiosis, in different populations in Westchester County, New York",
+		"authors": [
+			{
+				"name": "M.E. Aguero-Rosenfeld",
+				"affiliation": "Westchester Medical Center, Valhalla, United States"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 7,
+		"startpage": 2612,
+		"endpage": 2615,
+		"doi": "10.1128/JCM.40.7.2612-2615.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036306141",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036306141&origin=inward",
+		"cites": 81,
+		"ecc": 81,
+		"rank": 42,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Borrelia burgdorferi population kinetics and selected gene expression at the host-vector interface",
+		"authors": [
+			{
+				"name": "E. Hodzic",
+				"affiliation": "University of California, Davis, Davis, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 7,
+		"startpage": 3382,
+		"endpage": 3388,
+		"doi": "10.1128/IAI.70.7.3382-3388.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036084539",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036084539&origin=inward",
+		"cites": 81,
+		"ecc": 81,
+		"rank": 43,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Evidence that the variable regions of the central domain of VlsE are antigenic during infection with Lyme disease spirochetes",
+		"authors": [
+			{
+				"name": "J. McDowell",
+				"affiliation": "Medical College of Virginia, Richmond, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 8,
+		"startpage": 4196,
+		"endpage": 4203,
+		"doi": "10.1128/IAI.70.8.4196-4203.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036070663",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036070663&origin=inward",
+		"cites": 80,
+		"ecc": 80,
+		"rank": 44,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Laboratory testing for suspected Lyme disease",
+		"authors": [
+			{
+				"name": "J. Bunikis",
+				"affiliation": "University of California, Irvine, Irvine, United States"
+			}
+		],
+		"source": "Medical Clinics of North America",
+		"year": 2002,
+		"volume": 86,
+		"issue": 2,
+		"startpage": 311,
+		"endpage": 340,
+		"doi": "10.1016/S0025-7125(03)00089-0",
+		"issn": "0025-7125",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025712503000890",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036231464",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036231464&origin=inward",
+		"cites": 79,
+		"ecc": 79,
+		"rank": 45,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Differential survival of lyme borreliosis spirochetes in ticks that feed on birds",
+		"authors": [
+			{
+				"name": "K. Kurtenbach",
+				"affiliation": "Imperial College London, London, United Kingdom"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 10,
+		"startpage": 5893,
+		"endpage": 5895,
+		"doi": "10.1128/IAI.70.10.5893-5895.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036785643",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036785643&origin=inward",
+		"cites": 78,
+		"ecc": 78,
+		"rank": 46,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Quantitative detection of Borrelia burgdorferi in 2-millimeter skin samples of erythema migrans lesions: Correlation of results with clinical and laboratory findings",
+		"authors": [
+			{
+				"name": "D. Liveris",
+				"affiliation": "New York Medical College, Valhalla, United States"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 4,
+		"startpage": 1249,
+		"endpage": 1253,
+		"doi": "10.1128/JCM.40.4.1249-1253.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036208453",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036208453&origin=inward",
+		"cites": 78,
+		"ecc": 78,
+		"rank": 47,
+		"use": true
+	},
+	{
+		"type": "Conference Paper",
+		"title": "Mapping of immunoreactive antigens of Francisella tularensis live vaccine strain",
+		"authors": [
+			{
+				"name": "J. Havlasová",
+				"affiliation": "Military Medical Academy, Hradec Kralove, Czech Republic"
+			}
+		],
+		"source": "Proteomics",
+		"year": 2002,
+		"volume": 2,
+		"issue": 7,
+		"startpage": 857,
+		"endpage": 867,
+		"doi": "10.1002/1615-9861(200207)2:7<857::AID-PROT857>3.0.CO;2-L",
+		"issn": "1615-9853",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0035997272",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0035997272&origin=inward",
+		"cites": 78,
+		"ecc": 78,
+		"rank": 48,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Decreased electroporation efficiency in Borrelia burgdorferi containing linear plasmids lp25 and lp56: Impact on transformation of infectious B. burgdorferi",
+		"authors": [
+			{
+				"name": "M. Lawrenz",
+				"affiliation": "University of Texas Medical School at Houston, Houston, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 9,
+		"startpage": 4798,
+		"endpage": 4804,
+		"doi": "10.1128/IAI.70.9.4798-4804.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036716365",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036716365&origin=inward",
+		"cites": 74,
+		"ecc": 74,
+		"rank": 49,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Changes in temporal and spatial patterns of outer surface lipoprotein expression generate population heterogeneity and antigenic diversity in the lyme disease spirochete, Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "P. Hefty",
+				"affiliation": "University of Oklahoma Health Sciences Center, Oklahoma City, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 7,
+		"startpage": 3468,
+		"endpage": 3478,
+		"doi": "10.1128/IAI.70.7.3468-3478.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036084295",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036084295&origin=inward",
+		"cites": 72,
+		"ecc": 72,
+		"rank": 50,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Biology of Ixodes species ticks in relation to tick-borne zoonoses",
+		"authors": [
+			{
+				"name": "J. Gray",
+				"affiliation": "University College Dublin, Dublin, Ireland"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 473,
+		"endpage": 478,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205655",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205655&origin=inward",
+		"cites": 68,
+		"ecc": 68,
+		"rank": 51,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Sex-biased genetic structure in the vector of lyme disease, ixodes ricinus",
+		"authors": [
+			{
+				"name": "T. De Meeüs",
+				"affiliation": "IRD Centre de Montpellier, Montpellier, France"
+			}
+		],
+		"source": "Evolution",
+		"year": 2002,
+		"volume": 56,
+		"issue": 9,
+		"startpage": 1802,
+		"endpage": 1807,
+		"doi": "10.1554/0014-3820(2002)056[1802:sbgsit]2.0.co;2",
+		"issn": "0014-3820",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036753212",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036753212&origin=inward",
+		"cites": 66,
+		"ecc": 66,
+		"rank": 52,
+		"use": true
+	},
+	{
+		"type": "Conference Paper",
+		"title": "Workshop summary: Aluminum in vaccines",
+		"authors": [
+			{
+				"name": "T.C. Eickhoff",
+				"affiliation": "University of Colorado Anschutz Medical Campus, Aurora, United States"
+			}
+		],
+		"source": "Vaccine",
+		"year": 2002,
+		"volume": 20,
+		"doi": "10.1016/S0264-410X(02)00120-2",
+		"issn": "0264-410X",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0264410X02001639",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205082",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205082&origin=inward",
+		"cites": 65,
+		"ecc": 65,
+		"rank": 53,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Adverse event reports following vaccination for Lyme disease: December 1998-July 2000",
+		"authors": [
+			{
+				"name": "S. Lathrop",
+				"affiliation": "Centers for Disease Control and Prevention, Atlanta, United States"
+			}
+		],
+		"source": "Vaccine",
+		"year": 2002,
+		"volume": 20,
+		"issue": 11,
+		"startpage": 1603,
+		"endpage": 1608,
+		"doi": "10.1016/S0264-410X(01)00500-X",
+		"issn": "0264-410X",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0264410X0100500X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037154759",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037154759&origin=inward",
+		"cites": 64,
+		"ecc": 64,
+		"rank": 54,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Borrelia burgdorferi induces inflammatory mediator production by murine microglia",
+		"authors": [
+			{
+				"name": "A. Rasley",
+				"affiliation": "The University of North Carolina at Charlotte, Charlotte, United States"
+			}
+		],
+		"source": "Journal of Neuroimmunology",
+		"year": 2002,
+		"volume": 130,
+		"issue": 1,
+		"startpage": 22,
+		"endpage": 31,
+		"doi": "10.1016/S0165-5728(02)00187-X",
+		"issn": "0165-5728",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S016557280200187X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036709022",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036709022&origin=inward",
+		"cites": 64,
+		"ecc": 64,
+		"rank": 55,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Asymmetrical flagellar rotation in Borrelia burgdorferi nonchemotactic mutants",
+		"authors": [
+			{
+				"name": "C. Li",
+				"affiliation": "WVU Health Sciences Center Morgantown, Morgantown, United States"
+			}
+		],
+		"source": "Proceedings of the National Academy of Sciences of the United States of America",
+		"year": 2002,
+		"volume": 99,
+		"issue": 9,
+		"startpage": 6169,
+		"endpage": 6174,
+		"doi": "10.1073/pnas.092010499",
+		"issn": "0027-8424",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037197987",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037197987&origin=inward",
+		"cites": 62,
+		"ecc": 62,
+		"rank": 56,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Seasonal activity patterns of Ixodes pacificus nymphs in relation to climatic conditions",
+		"authors": [
+			{
+				"name": "L. Eisen",
+				"affiliation": "Department of Environmental Science, Policy, and Management, Berkeley, United States"
+			}
+		],
+		"source": "Medical and Veterinary Entomology",
+		"year": 2002,
+		"volume": 16,
+		"issue": 3,
+		"startpage": 235,
+		"endpage": 244,
+		"doi": "10.1046/j.1365-2915.2002.00372.x",
+		"issn": "0269-283X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036735471",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036735471&origin=inward",
+		"cites": 61,
+		"ecc": 61,
+		"rank": 57,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Coexistence DNA of Borrelia burgdorferi sensu lato and Babesia microti in ixodes ricinus ticks from North-Western Poland",
+		"authors": [
+			{
+				"name": "B. Skotarczak",
+				"affiliation": "Uniwersytet Szczecinski, Szczecin, Poland"
+			}
+		],
+		"source": "Annals of Agricultural and Environmental Medicine",
+		"year": 2002,
+		"volume": 9,
+		"issue": 1,
+		"startpage": 25,
+		"endpage": 28,
+		"issn": "1232-1966",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036283823",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036283823&origin=inward",
+		"cites": 61,
+		"ecc": 61,
+		"rank": 58,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "The macrolides",
+		"authors": [
+			{
+				"name": "J. Blondeau",
+				"affiliation": "Royal University Hospital, Saskatoon, Canada"
+			}
+		],
+		"source": "Expert Opinion on Investigational Drugs",
+		"year": 2002,
+		"volume": 11,
+		"issue": 2,
+		"startpage": 189,
+		"endpage": 215,
+		"doi": "10.1517/13543784.11.2.189",
+		"issn": "1354-3784",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036166365",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036166365&origin=inward",
+		"cites": 61,
+		"ecc": 61,
+		"rank": 59,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "LuxS-mediated quorum sensing in Borrelia burgdorferi, the Lyme disease spirochete",
+		"authors": [
+			{
+				"name": "B. Stevenson",
+				"affiliation": "University of Kentucky College of Medicine, Lexington, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 8,
+		"startpage": 4099,
+		"endpage": 4105,
+		"doi": "10.1128/IAI.70.8.4099-4105.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036075658",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036075658&origin=inward",
+		"cites": 61,
+		"ecc": 61,
+		"rank": 60,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Babesiosis",
+		"authors": [
+			{
+				"name": "P. Krause",
+				"affiliation": "Connecticut Children's Medical Center, Hartford, United States"
+			}
+		],
+		"source": "Medical Clinics of North America",
+		"year": 2002,
+		"volume": 86,
+		"issue": 2,
+		"startpage": 361,
+		"endpage": 373,
+		"doi": "10.1016/S0025-7125(03)00092-0",
+		"issn": "0025-7125",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025712503000920",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036229503",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036229503&origin=inward",
+		"cites": 60,
+		"ecc": 60,
+		"rank": 61,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Stage-structured infection transmission and a spatial epidemic: A model for Lyme disease",
+		"authors": [
+			{
+				"name": "T. Caraco",
+				"affiliation": "State University of New York Albany, Albany, United States"
+			}
+		],
+		"source": "American Naturalist",
+		"year": 2002,
+		"volume": 160,
+		"issue": 3,
+		"startpage": 348,
+		"endpage": 359,
+		"doi": "10.1086/341518",
+		"issn": "0003-0147",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036727625",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036727625&origin=inward",
+		"cites": 59,
+		"ecc": 59,
+		"rank": 62,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Solitary borrelial lymphocytoma in adult patients",
+		"authors": [
+			{
+				"name": "V. Maraspin",
+				"affiliation": "Univerzitetni Klinični Center Ljubljana, Ljubljana, Slovenia"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 515,
+		"endpage": 523,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205665",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205665&origin=inward",
+		"cites": 58,
+		"ecc": 58,
+		"rank": 63,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Chronic symptoms are common in patients with neuroborreliosis - A questionnaire follow-up study",
+		"authors": [
+			{
+				"name": "M. Vrethem",
+				"affiliation": "Universitetssjukhuset i Linköping, Linkoping, Sweden"
+			}
+		],
+		"source": "Acta Neurologica Scandinavica",
+		"year": 2002,
+		"volume": 106,
+		"issue": 4,
+		"startpage": 205,
+		"endpage": 208,
+		"doi": "10.1034/j.1600-0404.2002.01358.x",
+		"issn": "0001-6314",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036786073",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036786073&origin=inward",
+		"cites": 57,
+		"ecc": 57,
+		"rank": 64,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Spatial analysis of human granulocytic ehrlichiosis near Lyme, Connecticut",
+		"authors": [
+			{
+				"name": "E. Chaput",
+				"affiliation": "Yale School of Medicine, New Haven, United States"
+			}
+		],
+		"source": "Emerging Infectious Diseases",
+		"year": 2002,
+		"volume": 8,
+		"issue": 9,
+		"startpage": 943,
+		"endpage": 948,
+		"doi": "10.3201/eid0809.020103",
+		"issn": "1080-6040",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036713798",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036713798&origin=inward",
+		"cites": 57,
+		"ecc": 57,
+		"rank": 65,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Related concentrations of specific immunoglobulins against the lyme disease agent Borrelia burgdorferi sensu lato in eggs, young and adults of the kittiwake (Rissa tridactyla)",
+		"authors": [
+			{
+				"name": "J. Gasparini",
+				"affiliation": "CNRS Centre National de la Recherche Scientifique, Paris, France"
+			}
+		],
+		"source": "Ecology Letters",
+		"year": 2002,
+		"volume": 5,
+		"issue": 4,
+		"startpage": 519,
+		"endpage": 524,
+		"doi": "10.1046/j.1461-0248.2002.00345.x",
+		"issn": "1461-023X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036316088",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036316088&origin=inward",
+		"cites": 56,
+		"ecc": 56,
+		"rank": 66,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Polymerase chain reaction in diagnosis of Borrelia burgdorferi infections and studies on taxonomic classification",
+		"authors": [
+			"A. Lebech"
+		],
+		"source": "APMIS, Supplement",
+		"year": 2002,
+		"volume": 110,
+		"issue": 105,
+		"startpage": 7,
+		"endpage": 40,
+		"issn": "0903-465X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036372085",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036372085&origin=inward",
+		"cites": 55,
+		"ecc": 55,
+		"rank": 67,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Comparative study of cefuroxime axetil versus amoxicillin in children with early Lyme disease",
+		"authors": [
+			{
+				"name": "S. Eppes",
+				"affiliation": "Jefferson Medical College, Philadelphia, United States"
+			}
+		],
+		"source": "Pediatrics",
+		"year": 2002,
+		"volume": 109,
+		"issue": 6,
+		"startpage": 1173,
+		"endpage": 1177,
+		"doi": "10.1542/peds.109.6.1173",
+		"issn": "0031-4005",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036264458",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036264458&origin=inward",
+		"cites": 55,
+		"ecc": 55,
+		"rank": 68,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Human phagocytic cells in the early innate immune response to Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "R.R. Montgomery",
+				"affiliation": "Yale School of Medicine, New Haven, United States"
+			}
+		],
+		"source": "Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 185,
+		"issue": 12,
+		"startpage": 1773,
+		"endpage": 1779,
+		"doi": "10.1086/340826",
+		"issn": "0022-1899",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037097790",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037097790&origin=inward",
+		"cites": 53,
+		"ecc": 53,
+		"rank": 69,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Cardiac manifestations of Lyme disease",
+		"authors": [
+			{
+				"name": "D. Pinto",
+				"affiliation": "Beth Israel Deaconess Medical Center, Boston, United States"
+			}
+		],
+		"source": "Medical Clinics of North America",
+		"year": 2002,
+		"volume": 86,
+		"issue": 2,
+		"startpage": 285,
+		"endpage": 296,
+		"doi": "10.1016/S0025-7125(03)00087-7",
+		"issn": "0025-7125",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025712503000877",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036223419",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036223419&origin=inward",
+		"cites": 53,
+		"ecc": 53,
+		"rank": 70,
+		"use": true
+	},
+	{
+		"type": "Short Survey",
+		"title": "Laboratory testing for lyme disease: Possibilities and practicalities",
+		"authors": [
+			{
+				"name": "K.D. Reed",
+				"affiliation": "Marshfield Clinic, Marshfield, United States"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 2,
+		"startpage": 319,
+		"endpage": 324,
+		"doi": "10.1128/JCM.40.2.319-324.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036159301",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036159301&origin=inward",
+		"cites": 53,
+		"ecc": 53,
+		"rank": 71,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Cause and prognosis of nontraumatic sixth nerve palsies in young adults",
+		"authors": [
+			{
+				"name": "G. Peters",
+				"affiliation": "Albany Medical College, Albany, United States"
+			}
+		],
+		"source": "Ophthalmology",
+		"year": 2002,
+		"volume": 109,
+		"issue": 10,
+		"startpage": 1925,
+		"endpage": 1928,
+		"doi": "10.1016/S0161-6420(02)01226-5",
+		"issn": "0161-6420",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0161642002012265",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036787755",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036787755&origin=inward",
+		"cites": 52,
+		"ecc": 52,
+		"rank": 72,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Pertussis toxin-induced reversible encephalopathy dependent on monocyte chemoattractant protein-1 overexpression in mice",
+		"authors": [
+			{
+				"name": "D.R. Huang",
+				"affiliation": "Cleveland Clinic Foundation, Cleveland, United States"
+			}
+		],
+		"source": "Journal of Neuroscience",
+		"year": 2002,
+		"volume": 22,
+		"issue": 24,
+		"startpage": 10633,
+		"endpage": 10642,
+		"doi": "10.1523/jneurosci.22-24-10633.2002",
+		"issn": "0270-6474",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037115107",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037115107&origin=inward",
+		"cites": 51,
+		"ecc": 51,
+		"rank": 73,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Controlled trials of antibiotic treatment in patients with post-treatment chronic Lyme disease.",
+		"authors": [
+			{
+				"name": "M. Klempner",
+				"affiliation": "Boston University School of Medicine, Boston, United States"
+			}
+		],
+		"source": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+		"year": 2002,
+		"volume": 2,
+		"issue": 4,
+		"startpage": 255,
+		"endpage": 263,
+		"doi": "10.1089/153036602321653842",
+		"issn": "1530-3667",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0642340556",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0642340556&origin=inward",
+		"cites": 50,
+		"ecc": 50,
+		"rank": 74,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Protection Against Lyme Disease Spirochete Transmission Provided by Prompt Removal of Nymphal Ixodes scapularis (Acari: Ixodidae)",
+		"authors": [
+			{
+				"name": "J. Piesman",
+				"affiliation": "National Center for Emerging and Zoonotic Infectious Diseases, Atlanta, United States"
+			}
+		],
+		"source": "Journal of Medical Entomology",
+		"year": 2002,
+		"volume": 39,
+		"issue": 3,
+		"startpage": 509,
+		"endpage": 512,
+		"doi": "10.1603/0022-2585-39.3.509",
+		"issn": "0022-2585",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036580566",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036580566&origin=inward",
+		"cites": 50,
+		"ecc": 50,
+		"rank": 75,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "The diagnosis of brown recluse spider bite is overused for dermonecrotic wounds of uncertain etiology",
+		"authors": [
+			{
+				"name": "R. Vetter",
+				"affiliation": "University of California, Riverside, Riverside, United States"
+			}
+		],
+		"source": "Annals of Emergency Medicine",
+		"year": 2002,
+		"volume": 39,
+		"issue": 5,
+		"startpage": 544,
+		"endpage": 546,
+		"doi": "10.1067/mem.2002.123594",
+		"issn": "0196-0644",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0196064402259776",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036242503",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036242503&origin=inward",
+		"cites": 49,
+		"ecc": 49,
+		"rank": 76,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Serological and molecular evidence of human granulocytic ehrlichiosis focus in the Bialłowieża Primeval forest (Puszcza Bialłowieska), northeastern Poland",
+		"authors": [
+			{
+				"name": "A. Grzeszczuk",
+				"affiliation": "Uniwersytet Medyczny w Bialymstoku, Bialystok, Poland"
+			}
+		],
+		"source": "European Journal of Clinical Microbiology and Infectious Diseases",
+		"year": 2002,
+		"volume": 21,
+		"issue": 1,
+		"startpage": 6,
+		"endpage": 11,
+		"doi": "10.1007/s10096-001-0649-1",
+		"issn": "0934-9723",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036171781",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036171781&origin=inward",
+		"cites": 49,
+		"ecc": 49,
+		"rank": 77,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Parasitism of lizards by immature stages of the blacklegged tick, Ixodes scapularis (Acari, Ixodidae)",
+		"authors": [
+			{
+				"name": "L. Durden",
+				"affiliation": "Georgia Southern University, Statesboro, United States"
+			}
+		],
+		"source": "Experimental and Applied Acarology",
+		"year": 2002,
+		"volume": 26,
+		"issue": 3,
+		"startpage": 257,
+		"endpage": 266,
+		"doi": "10.1023/A:1021199914816",
+		"issn": "0168-8162",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036909082",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036909082&origin=inward",
+		"cites": 48,
+		"ecc": 48,
+		"rank": 78,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Genetic and environmental risk factors for idiopathic inflammatory myopathies",
+		"authors": [
+			{
+				"name": "A. Reed",
+				"affiliation": "Mayo Medical School, Rochester, United States"
+			}
+		],
+		"source": "Rheumatic Disease Clinics of North America",
+		"year": 2002,
+		"volume": 28,
+		"issue": 4,
+		"startpage": 891,
+		"endpage": 916,
+		"doi": "10.1016/S0889-857X(02)00029-7",
+		"issn": "0889-857X",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0889857X02000297",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036866041",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036866041&origin=inward",
+		"cites": 48,
+		"ecc": 48,
+		"rank": 79,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Gastrointestinal and hepatic manifestations of tickborne diseases in the United States",
+		"authors": [
+			{
+				"name": "S. Ali Zaidi",
+				"affiliation": "Long Island Jewish Medical Center, New Hyde Park, United States"
+			}
+		],
+		"source": "Clinical Infectious Diseases",
+		"year": 2002,
+		"volume": 34,
+		"issue": 9,
+		"startpage": 1206,
+		"endpage": 1212,
+		"doi": "10.1086/339871",
+		"issn": "1058-4838",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036569972",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036569972&origin=inward",
+		"cites": 47,
+		"ecc": 47,
+		"rank": 80,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Comparative reactivity of human sera to recombinant VIsE and other Borrelia burgdorferi antigens in class-specific enzyme-linked immunosorbent assays for Lyme borreliosis",
+		"authors": [
+			{
+				"name": "L.A. Magnarelli",
+				"affiliation": "Connecticut Agricultural Experiment Station, New Haven, United States"
+			}
+		],
+		"source": "Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 51,
+		"issue": 8,
+		"startpage": 649,
+		"endpage": 655,
+		"doi": "10.1099/0022-1317-51-8-649",
+		"issn": "0022-2615",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036077009",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036077009&origin=inward",
+		"cites": 47,
+		"ecc": 47,
+		"rank": 81,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Successful treatment of neuroborreliosis with ten day regimens",
+		"authors": [
+			{
+				"name": "C. Thorstrand",
+				"affiliation": "Sachsska Children's Hospital, Stockholm, Sweden"
+			}
+		],
+		"source": "Pediatric Infectious Disease Journal",
+		"year": 2002,
+		"volume": 21,
+		"issue": 12,
+		"startpage": 1142,
+		"endpage": 1145,
+		"doi": "10.1097/00006454-200212000-00011",
+		"issn": "0891-3668",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036901632",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036901632&origin=inward",
+		"cites": 46,
+		"ecc": 46,
+		"rank": 82,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Geographical Information Systems and Bootstrap Aggregation (Bagging) of Tree-Based Classifiers for Lyme Disease Risk Prediction in Trentino, Italian Alps",
+		"authors": [
+			{
+				"name": "A. Rizzoli",
+				"affiliation": "Centro di Ecologia Alpina, Trento, Italy"
+			}
+		],
+		"source": "Journal of Medical Entomology",
+		"year": 2002,
+		"volume": 39,
+		"issue": 3,
+		"startpage": 485,
+		"endpage": 492,
+		"doi": "10.1603/0022-2585-39.3.485",
+		"issn": "0022-2585",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036582538",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036582538&origin=inward",
+		"cites": 46,
+		"ecc": 46,
+		"rank": 83,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Antibody detection in human serum using a versatile protein chip platform constructed by applying nanoscale self-assembled architectures on gold",
+		"authors": [
+			{
+				"name": "P. Pavlickova",
+				"affiliation": "ThermoHybaid, Ulm, Germany"
+			}
+		],
+		"source": "Journal of Proteome Research",
+		"year": 2002,
+		"volume": 1,
+		"issue": 3,
+		"startpage": 227,
+		"endpage": 231,
+		"doi": "10.1021/pr0200036",
+		"issn": "1535-3893",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036589929",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036589929&origin=inward",
+		"cites": 45,
+		"ecc": 45,
+		"rank": 84,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Neurologic aspects of Lyme disease",
+		"authors": [
+			{
+				"name": "P. Coyle",
+				"affiliation": "Renaissance School of Medicine at Stony Brook University, Stony Brook, United States"
+			}
+		],
+		"source": "Medical Clinics of North America",
+		"year": 2002,
+		"volume": 86,
+		"issue": 2,
+		"startpage": 261,
+		"endpage": 284,
+		"doi": "10.1016/S0025-7125(03)00086-5",
+		"issn": "0025-7125",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025712503000865",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036230995",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036230995&origin=inward",
+		"cites": 45,
+		"ecc": 45,
+		"rank": 85,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Strain typing of Borrelia burgdorferi, Borrelia afzelii, and Borrelia garinii by using multiple-locus variable-number tandem repeat analysis",
+		"authors": [
+			{
+				"name": "J. Farlow",
+				"affiliation": "Northern Arizona University, Flagstaff, United States"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 12,
+		"startpage": 4612,
+		"endpage": 4618,
+		"doi": "10.1128/JCM.40.12.4612-4618.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/18744372699",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=18744372699&origin=inward",
+		"cites": 44,
+		"ecc": 44,
+		"rank": 86,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Sensitivity of culture and polymerase chain reaction for the etiologic diagnosis of erythema migrans",
+		"authors": [
+			{
+				"name": "A. Zore",
+				"affiliation": "Medical Faculty, Ljubljana, Slovenia"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 606,
+		"endpage": 609,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205682",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205682&origin=inward",
+		"cites": 44,
+		"ecc": 44,
+		"rank": 87,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Co-feeding transmission and its contribution to the perpetuation of the Lyme disease spirochete Borrelia afzelii",
+		"authors": [
+			{
+				"name": "D. Richter",
+				"affiliation": "Humboldt-Universität zu Berlin, Berlin, Germany"
+			}
+		],
+		"source": "Emerging Infectious Diseases",
+		"year": 2002,
+		"volume": 8,
+		"issue": 12,
+		"startpage": 1421,
+		"endpage": 1425,
+		"doi": "10.3201/eid0812.010519",
+		"issn": "1080-6040",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036913488",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036913488&origin=inward",
+		"cites": 44,
+		"ecc": 44,
+		"rank": 88,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Human granulocytic ehrlichiosis as a common cause of tick-associated fever in Southeast Sweden: Report from a prospective clinical study",
+		"authors": [
+			{
+				"name": "A. Bjöersdorff",
+				"affiliation": "Kalmar County Hospital, Kalmar, Sweden"
+			}
+		],
+		"source": "Scandinavian Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 34,
+		"issue": 3,
+		"startpage": 187,
+		"endpage": 191,
+		"doi": "10.1080/00365540110080061",
+		"issn": "0036-5548",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036214814",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036214814&origin=inward",
+		"cites": 44,
+		"ecc": 44,
+		"rank": 89,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Tick salivary gland extract-activated transmission of Borrelia afzelii spirochaetes",
+		"authors": [
+			{
+				"name": "J. Pechová",
+				"affiliation": "Institute of Parasitology, Biology Centre of the Academy of Sciences of the Czech Republic, Ceske Budejovice, Czech Republic"
+			}
+		],
+		"source": "Folia Parasitologica",
+		"year": 2002,
+		"volume": 49,
+		"issue": 2,
+		"startpage": 153,
+		"endpage": 159,
+		"doi": "10.14411/fp.2002.027",
+		"issn": "0015-5683",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036063313",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036063313&origin=inward",
+		"cites": 44,
+		"ecc": 44,
+		"rank": 90,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Babesiosis in humans: A treatment review",
+		"authors": [
+			{
+				"name": "L. Weiss",
+				"affiliation": "Albert Einstein College of Medicine of Yeshiva University, New York, United States"
+			}
+		],
+		"source": "Expert Opinion on Pharmacotherapy",
+		"year": 2002,
+		"volume": 3,
+		"issue": 8,
+		"startpage": 1109,
+		"endpage": 1115,
+		"doi": "10.1517/14656566.3.8.1109",
+		"issn": "1465-6566",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0035989257",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0035989257&origin=inward",
+		"cites": 44,
+		"ecc": 44,
+		"rank": 91,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Erythromycin resistance in Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "D. Terekhova",
+				"affiliation": "New York Medical College, Valhalla, United States"
+			}
+		],
+		"source": "Antimicrobial Agents and Chemotherapy",
+		"year": 2002,
+		"volume": 46,
+		"issue": 11,
+		"startpage": 3637,
+		"endpage": 3640,
+		"doi": "10.1128/AAC.46.11.3637-3640.2002",
+		"issn": "0066-4804",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036841155",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036841155&origin=inward",
+		"cites": 43,
+		"ecc": 43,
+		"rank": 92,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Interleukin-10 inhibits proinflammatory activation of endothelium in response to Borrelia burgdorferi or lipopolysaccharide but not interleukin-1β or tumor necrosis factor α",
+		"authors": [
+			{
+				"name": "T. Lisinski",
+				"affiliation": "Renaissance School of Medicine at Stony Brook University, Stony Brook, United States"
+			}
+		],
+		"source": "Journal of Leukocyte Biology",
+		"year": 2002,
+		"volume": 72,
+		"issue": 3,
+		"startpage": 503,
+		"endpage": 511,
+		"issn": "0741-5400",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036745077",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036745077&origin=inward",
+		"cites": 43,
+		"ecc": 43,
+		"rank": 93,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Species-specific serodiagnosis of lyme arthritis and neuroborreliosis due to Borrelia burgdorferi sensu stricto, B. afzelii, and B. garinii by using decorin binding protein A",
+		"authors": [
+			{
+				"name": "T. Heikkilä",
+				"affiliation": "Haartman Institute, Helsinki, Finland"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 2,
+		"startpage": 453,
+		"endpage": 460,
+		"doi": "10.1128/JCM.40.02.453-460.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036159409",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036159409&origin=inward",
+		"cites": 43,
+		"ecc": 43,
+		"rank": 94,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Autocrine and exocrine regulation of interleukin-10 production in THP-1 cells stimulated with Borrelia burgdorferi lipoproteins",
+		"authors": [
+			{
+				"name": "G. Giambartolomei",
+				"affiliation": "Tulane National Primate Research Center, Covington, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 4,
+		"startpage": 1881,
+		"endpage": 1888,
+		"doi": "10.1128/IAI.70.4.1881-1888.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036127058",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036127058&origin=inward",
+		"cites": 43,
+		"ecc": 43,
+		"rank": 95,
+		"use": true
+	},
+	{
+		"type": "Conference Paper",
+		"title": "Coinfection of Ixodes ricinus (Acari: Ixodidae) in northern Poland with the agents of Lyme borreliosis (LB) and human granulocytic ehrlichiosis (HGE)",
+		"authors": [
+			{
+				"name": "J. Stańczak",
+				"affiliation": "Akademickie Centrum Medycyny Morskiej i Tropikalnej, Gdynia, Poland"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 198,
+		"endpage": 201,
+		"doi": "10.1016/S1438-4221(02)80045-5",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800455",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036068269",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036068269&origin=inward",
+		"cites": 42,
+		"ecc": 42,
+		"rank": 96,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Lyme arthritis and post-Lyme disease syndrome",
+		"authors": [
+			{
+				"name": "A. Weinstein",
+				"affiliation": "Washington Hospital Center, Washington, D.C., United States"
+			}
+		],
+		"source": "Current Opinion in Rheumatology",
+		"year": 2002,
+		"volume": 14,
+		"issue": 4,
+		"startpage": 383,
+		"endpage": 387,
+		"doi": "10.1097/00002281-200207000-00008",
+		"issn": "1040-8711",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0035985835",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0035985835&origin=inward",
+		"cites": 42,
+		"ecc": 42,
+		"rank": 97,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Occupational risk of Lyme disease: An epidemiological review",
+		"authors": [
+			{
+				"name": "J. Piacentino",
+				"affiliation": "Johns Hopkins Bloomberg School of Public Health, Baltimore, United States"
+			}
+		],
+		"source": "Occupational and Environmental Medicine",
+		"year": 2002,
+		"volume": 59,
+		"issue": 2,
+		"startpage": 75,
+		"endpage": 84,
+		"doi": "10.1136/oem.59.2.75",
+		"issn": "1351-0711",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036160706",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036160706&origin=inward",
+		"cites": 41,
+		"ecc": 41,
+		"rank": 98,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Complement regulator-acquiring surface proteins of Borrelia burgdorferi: A new protein family involved in complement resistance",
+		"authors": [
+			{
+				"name": "P. Kraiczy",
+				"affiliation": "Universitätsklinikum Frankfurt, Frankfurt am Main, Germany"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 568,
+		"endpage": 573,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205672",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205672&origin=inward",
+		"cites": 40,
+		"ecc": 40,
+		"rank": 99,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "MRI features of confirmed \"pre-slip\" capital femoral epiphysis: A report of two cases",
+		"authors": [
+			{
+				"name": "A. Lalaji",
+				"affiliation": "Montefiore Medical Center, New York, United States"
+			}
+		],
+		"source": "Skeletal Radiology",
+		"year": 2002,
+		"volume": 31,
+		"issue": 6,
+		"startpage": 362,
+		"endpage": 365,
+		"doi": "10.1007/s00256-002-0497-9",
+		"issn": "0364-2348",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036943728",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036943728&origin=inward",
+		"cites": 40,
+		"ecc": 40,
+		"rank": 100,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Lyme disease masquerading as brown recluse spider bite",
+		"authors": [
+			{
+				"name": "K. Osterhoudt",
+				"affiliation": "The Children's Hospital of Philadelphia, Philadelphia, United States"
+			}
+		],
+		"source": "Annals of Emergency Medicine",
+		"year": 2002,
+		"volume": 39,
+		"issue": 5,
+		"startpage": 558,
+		"endpage": 561,
+		"doi": "10.1067/mem.2002.119509",
+		"issn": "0196-0644",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0196064402513949",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036239390",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036239390&origin=inward",
+		"cites": 40,
+		"ecc": 40,
+		"rank": 101,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Clinical and epidemiological findings for patients with erythema migrans: Comparison of cohorts from the years 1993 and 2000",
+		"authors": [
+			{
+				"name": "F. Strle",
+				"affiliation": "Univerzitetni Klinični Center Ljubljana, Ljubljana, Slovenia"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 493,
+		"endpage": 497,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205657",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205657&origin=inward",
+		"cites": 39,
+		"ecc": 39,
+		"rank": 102,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Three major Lyme Borrelia genospecies (Borrelia burgdorferi sensu stricto, B. afzelii and B. garinii) identified by PCR in cerebrospinal fluid from patients with neuroborreliosis in Sweden",
+		"authors": [
+			{
+				"name": "K. Ornstein",
+				"affiliation": "Skånes universitetssjukhus, Lund, Sweden"
+			}
+		],
+		"source": "Scandinavian Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 34,
+		"issue": 5,
+		"startpage": 341,
+		"endpage": 346,
+		"doi": "10.1080/00365540110080313",
+		"issn": "0036-5548",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0035987157",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0035987157&origin=inward",
+		"cites": 39,
+		"ecc": 39,
+		"rank": 103,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Utility of an in-office C<inf>6</inf> ELISA test kit for determination of infection status of dogs naturally exposed to Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "S. Levy",
+				"affiliation": "IDEXX Laboratories Incorporated, Westbrook, United States"
+			}
+		],
+		"source": "Veterinary Therapeutics",
+		"year": 2002,
+		"volume": 3,
+		"issue": 3,
+		"issn": "1528-3593",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/79251490122",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=79251490122&origin=inward",
+		"cites": 38,
+		"ecc": 38,
+		"rank": 104,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "OspE-related, OspF-related, and Elp lipoproteins are immunogenic in baboons experimentally infected with Borrelia burgdorferi and in human lyme disease patients",
+		"authors": [
+			{
+				"name": "P. Hefty",
+				"affiliation": "University of Oklahoma Health Sciences Center, Oklahoma City, United States"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 11,
+		"startpage": 4256,
+		"endpage": 4265,
+		"doi": "10.1128/JCM.40.11.4256-4265.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036840122",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036840122&origin=inward",
+		"cites": 38,
+		"ecc": 38,
+		"rank": 105,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Glass capillary tube feeding: A method for infecting nymphal Ixodes scapularis (Acari: Ixodidae) with the Lyme disease spirochete Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "A. Broadwater",
+				"affiliation": "The University of North Carolina at Chapel Hill, Chapel Hill, United States"
+			}
+		],
+		"source": "Journal of Medical Entomology",
+		"year": 2002,
+		"volume": 39,
+		"issue": 2,
+		"startpage": 285,
+		"endpage": 292,
+		"doi": "10.1603/0022-2585-39.2.285",
+		"issn": "0022-2585",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036517617",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036517617&origin=inward",
+		"cites": 38,
+		"ecc": 38,
+		"rank": 106,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Genetic diversity of the outer surface protein C gene of southern Borrelia isolates and its possible epidemiological, clinical, and pathogenetic implications",
+		"authors": [
+			{
+				"name": "T. Lin",
+				"affiliation": "Georgia Southern University, Statesboro, United States"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 7,
+		"startpage": 2572,
+		"endpage": 2583,
+		"doi": "10.1128/JCM.40.7.2572-2583.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036308535",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036308535&origin=inward",
+		"cites": 38,
+		"ecc": 38,
+		"rank": 107,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Overdiagnosis and overtreatment of Lyme disease in children",
+		"authors": [
+			{
+				"name": "M. Qureshi",
+				"affiliation": "Renaissance School of Medicine at Stony Brook University, Stony Brook, United States"
+			}
+		],
+		"source": "Pediatric Infectious Disease Journal",
+		"year": 2002,
+		"volume": 21,
+		"issue": 1,
+		"startpage": 12,
+		"endpage": 14,
+		"doi": "10.1097/00006454-200201000-00003",
+		"issn": "0891-3668",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036144384",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036144384&origin=inward",
+		"cites": 38,
+		"ecc": 38,
+		"rank": 108,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Immune evasion of Borrelia burgdorferi: Insufficient killing of the pathogens by complement and antibody",
+		"authors": [
+			{
+				"name": "P. Kraiczy",
+				"affiliation": "Universitätsklinikum Frankfurt, Frankfurt am Main, Germany"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 141,
+		"endpage": 146,
+		"doi": "10.1016/S1438-4221(02)80027-3",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800273",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036067119",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036067119&origin=inward",
+		"cites": 38,
+		"ecc": 38,
+		"rank": 109,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Peripheral neuropathy in acrodermatitis chronica atrophicans - Effect of treatment",
+		"authors": [
+			{
+				"name": "E. Kindstrand",
+				"affiliation": "Karolinska Universitetssjukhuset, Stockholm, Sweden"
+			}
+		],
+		"source": "Acta Neurologica Scandinavica",
+		"year": 2002,
+		"volume": 106,
+		"issue": 5,
+		"startpage": 253,
+		"endpage": 257,
+		"doi": "10.1034/j.1600-0404.2002.01336.x",
+		"issn": "0001-6314",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036837998",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036837998&origin=inward",
+		"cites": 37,
+		"ecc": 37,
+		"rank": 110,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Distribution of Borrelia burgdorferi sensu lato in Ixodes ricinus (Acari: Ixodidae) ticks from the Basque Country, Spain",
+		"authors": [
+			{
+				"name": "M. Barral",
+				"affiliation": "NEIKER, Basque Institute for Agricultural Research and Development, Derio, Spain"
+			}
+		],
+		"source": "Journal of Medical Entomology",
+		"year": 2002,
+		"volume": 39,
+		"issue": 1,
+		"startpage": 177,
+		"endpage": 184,
+		"doi": "10.1603/0022-2585-39.1.177",
+		"issn": "0022-2585",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036371466",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036371466&origin=inward",
+		"cites": 37,
+		"ecc": 37,
+		"rank": 111,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Posterior scleritis associated with Borrelia burgdorferi (Lyme disease) infection",
+		"authors": [
+			{
+				"name": "D. Krist",
+				"affiliation": "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany"
+			}
+		],
+		"source": "Ophthalmology",
+		"year": 2002,
+		"volume": 109,
+		"issue": 1,
+		"startpage": 143,
+		"endpage": 145,
+		"doi": "10.1016/S0161-6420(01)00868-5",
+		"issn": "0161-6420",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0161642001008685",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036136420",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036136420&origin=inward",
+		"cites": 37,
+		"ecc": 37,
+		"rank": 112,
+		"use": true
+	},
+	{
+		"type": "Conference Paper",
+		"title": "Birds and Borrelia",
+		"authors": [
+			{
+				"name": "P.F. Humair",
+				"affiliation": "Universite de Neuchatel, Institut de Zoologie, Neuchatel, Switzerland"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 70,
+		"endpage": 74,
+		"doi": "10.1016/S1438-4221(02)80015-7",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800157",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036069037",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036069037&origin=inward",
+		"cites": 37,
+		"ecc": 37,
+		"rank": 113,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Use of a C<inf>6</inf> ELISA test to evaluate the efficacy of a whole-cell bacterin for the prevention of naturally transmitted canine borrelia burgdorferi infection",
+		"authors": [
+			{
+				"name": "S. Levy",
+				"affiliation": "Zoetis Inc., USA, Parsippany, United States"
+			}
+		],
+		"source": "Veterinary Therapeutics",
+		"year": 2002,
+		"volume": 3,
+		"issue": 4,
+		"issn": "1528-3593",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/79251515797",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=79251515797&origin=inward",
+		"cites": 36,
+		"ecc": 36,
+		"rank": 114,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Contributions of societal and geographical environments to \"chronic Lyme disease\": the psychopathogenesis and aporology of a new \"medically unexplained symptoms\" syndrome.",
+		"authors": [
+			{
+				"name": "L. Sigal",
+				"affiliation": "Rutgers Robert Wood Johnson Medical School, Piscataway, United States"
+			}
+		],
+		"source": "Environmental health perspectives",
+		"year": 2002,
+		"volume": 110,
+		"startpage": 607,
+		"endpage": 611,
+		"doi": "10.1289/ehp.02110s4607",
+		"issn": "0091-6765",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/17044461201",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=17044461201&origin=inward",
+		"cites": 36,
+		"ecc": 36,
+		"rank": 115,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Effects of microscale habitat physiognomy on the focal distribution of Ixodes scapularis and Amblyomma americanum (Acari: Ixodidae) nymphs",
+		"authors": [
+			{
+				"name": "T. Schulze",
+				"affiliation": "New Jersey Department of Health and Senior Services, Trenton, United States"
+			}
+		],
+		"source": "Environmental Entomology",
+		"year": 2002,
+		"volume": 31,
+		"issue": 6,
+		"startpage": 1085,
+		"endpage": 1090,
+		"doi": "10.1603/0046-225X-31.6.1085",
+		"issn": "0046-225X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036960805",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036960805&origin=inward",
+		"cites": 36,
+		"ecc": 36,
+		"rank": 116,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Bilateral simultaneous facial nerve palsy",
+		"authors": [
+			{
+				"name": "T. Price",
+				"affiliation": "Guy's Hospital, London, United Kingdom"
+			}
+		],
+		"source": "Journal of Laryngology and Otology",
+		"year": 2002,
+		"volume": 116,
+		"issue": 1,
+		"startpage": 46,
+		"endpage": 48,
+		"doi": "10.1258/0022215021910113",
+		"issn": "0022-2151",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036143557",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036143557&origin=inward",
+		"cites": 36,
+		"ecc": 36,
+		"rank": 117,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Long-term prognosis of patients treated for erythema migrans in France",
+		"authors": [
+			{
+				"name": "D. Lipsker",
+				"affiliation": "Université de Strasbourg, Strasbourg, France"
+			}
+		],
+		"source": "British Journal of Dermatology",
+		"year": 2002,
+		"volume": 146,
+		"issue": 5,
+		"startpage": 872,
+		"endpage": 876,
+		"doi": "10.1046/j.1365-2133.2002.04628.x",
+		"issn": "0007-0963",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036098804",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036098804&origin=inward",
+		"cites": 36,
+		"ecc": 36,
+		"rank": 118,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Solitary erythema migrans in children: Comparison of treatment with azithromycin and phenoxymethylpenicillin",
+		"authors": [
+			{
+				"name": "M. Arnež",
+				"affiliation": "Univerzitetni Klinični Center Ljubljana, Ljubljana, Slovenia"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 498,
+		"endpage": 504,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205660",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205660&origin=inward",
+		"cites": 35,
+		"ecc": 35,
+		"rank": 119,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Increased arthritis severity in mice coinfected with Borrelia burgdorferi and Babesia microti",
+		"authors": [
+			{
+				"name": "M. Moro",
+				"affiliation": "Departments of Immunology, United States"
+			}
+		],
+		"source": "Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 186,
+		"issue": 3,
+		"startpage": 428,
+		"endpage": 431,
+		"doi": "10.1086/341452",
+		"issn": "0022-1899",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036681861",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036681861&origin=inward",
+		"cites": 35,
+		"ecc": 35,
+		"rank": 120,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Chemotactic migration of the Lyme disease spirochete (Borrelia burgdorferi) to salivary gland extracts of vector ticks",
+		"authors": [
+			{
+				"name": "C. Shih",
+				"affiliation": "National Defense Medical Center Taiwan, Taipei, Taiwan"
+			}
+		],
+		"source": "American Journal of Tropical Medicine and Hygiene",
+		"year": 2002,
+		"volume": 66,
+		"issue": 5,
+		"startpage": 616,
+		"endpage": 621,
+		"doi": "10.4269/ajtmh.2002.66.616",
+		"issn": "0002-9637",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036561510",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036561510&origin=inward",
+		"cites": 35,
+		"ecc": 35,
+		"rank": 121,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Cytokines in Lyme borreliosis: Lack of early tumour necrosis factor-α and transforming growth factor-β<inf>1</inf> responses are associated with chronic neuroborreliosis",
+		"authors": [
+			{
+				"name": "M. Widhe",
+				"affiliation": "Linköpings Universitet, Linkoping, Sweden"
+			}
+		],
+		"source": "Immunology",
+		"year": 2002,
+		"volume": 107,
+		"issue": 1,
+		"startpage": 46,
+		"endpage": 55,
+		"doi": "10.1046/j.1365-2567.2002.01500.x",
+		"issn": "0019-2805",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036381080",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036381080&origin=inward",
+		"cites": 35,
+		"ecc": 35,
+		"rank": 122,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Increased expression of the Th1-inducing cytokines interleukin-12 and interleukin-18 in cerebrospinal fluid but not in sera from patients with Lyme neuroborreliosis",
+		"authors": [
+			{
+				"name": "M. Grusell",
+				"affiliation": "Universitetssjukhuset i Linköping, Linkoping, Sweden"
+			}
+		],
+		"source": "Journal of Neuroimmunology",
+		"year": 2002,
+		"volume": 131,
+		"issue": 1,
+		"startpage": 173,
+		"endpage": 178,
+		"doi": "10.1016/S0165-5728(02)00255-2",
+		"issn": "0165-5728",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0165572802002552",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036789981",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036789981&origin=inward",
+		"cites": 34,
+		"ecc": 34,
+		"rank": 123,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "DNA microarray assessment of putative Borrelia burgdorferi lipoprotein genes",
+		"authors": [
+			{
+				"name": "F. Liang",
+				"affiliation": "Yale School of Medicine, New Haven, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 6,
+		"startpage": 3300,
+		"endpage": 3303,
+		"doi": "10.1128/IAI.70.6.3300-3303.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036259905",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036259905&origin=inward",
+		"cites": 33,
+		"ecc": 33,
+		"rank": 124,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Late and chronic Lyme disease",
+		"authors": [
+			{
+				"name": "S. Donta",
+				"affiliation": "Boston University Medical Center, Boston, United States"
+			}
+		],
+		"source": "Medical Clinics of North America",
+		"year": 2002,
+		"volume": 86,
+		"issue": 2,
+		"startpage": 341,
+		"endpage": 349,
+		"doi": "10.1016/S0025-7125(03)00090-7",
+		"issn": "0025-7125",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025712503000907",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036223744",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036223744&origin=inward",
+		"cites": 33,
+		"ecc": 33,
+		"rank": 125,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Modeling the effects of reservoir competence decay and demographic turnover in Lyme disease ecology",
+		"authors": [
+			{
+				"name": "E. Schauber",
+				"affiliation": "University of Connecticut, Storrs, United States"
+			}
+		],
+		"source": "Ecological Applications",
+		"year": 2002,
+		"volume": 12,
+		"issue": 4,
+		"startpage": 1142,
+		"endpage": 1162,
+		"doi": "10.1890/1051-0761(2002)012[1142:MTEORC]2.0.CO;2",
+		"issn": "1051-0761",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036707198",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036707198&origin=inward",
+		"cites": 32,
+		"ecc": 32,
+		"rank": 126,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Mapping lyme disease incidence for diagnostic and preventive decisions, Maryland",
+		"authors": [
+			{
+				"name": "C. Frank",
+				"affiliation": "University of Maryland, Baltimore (UMB), Baltimore, United States"
+			}
+		],
+		"source": "Emerging Infectious Diseases",
+		"year": 2002,
+		"volume": 8,
+		"issue": 4,
+		"startpage": 427,
+		"endpage": 429,
+		"doi": "10.3201/eid0804.000413",
+		"issn": "1080-6040",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036235901",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036235901&origin=inward",
+		"cites": 32,
+		"ecc": 32,
+		"rank": 127,
+		"use": true
+	},
+	{
+		"type": "Conference Paper",
+		"title": "Microbiological diagnosis in Lyme borreliosis",
+		"authors": [
+			{
+				"name": "B. Wilske",
+				"affiliation": "Ludwig-Maximilians-Universität München, Munich, Germany"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 114,
+		"endpage": 119,
+		"doi": "10.1016/S1438-4221(02)80022-4",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800224",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036064077",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036064077&origin=inward",
+		"cites": 32,
+		"ecc": 32,
+		"rank": 128,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "The key roles of selection and migration in the ecology of Lyme borreliosis",
+		"authors": [
+			{
+				"name": "K. Kurtenbach",
+				"affiliation": "Imperial College London, London, United Kingdom"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 152,
+		"endpage": 154,
+		"doi": "10.1016/S1438-4221(02)80029-7",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800297",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036063935",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036063935&origin=inward",
+		"cites": 32,
+		"ecc": 32,
+		"rank": 129,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Lyme disease incidence in Wisconsin: A comparison of state-reported rates and rates from a population-based cohort",
+		"authors": [
+			{
+				"name": "A. Naleway",
+				"affiliation": "Marshfield Clinic, Marshfield, United States"
+			}
+		],
+		"source": "American Journal of Epidemiology",
+		"year": 2002,
+		"volume": 155,
+		"issue": 12,
+		"startpage": 1120,
+		"endpage": 1127,
+		"doi": "10.1093/aje/155.12.1120",
+		"issn": "0002-9262",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037097832",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037097832&origin=inward",
+		"cites": 31,
+		"ecc": 31,
+		"rank": 130,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Toll-like receptor 2 plays a pivotal role in host defense and inflammatory response to Borrelia burgdorferi.",
+		"authors": [
+			{
+				"name": "R. Wooten",
+				"affiliation": "College of Medicine and Life Sciences, Toledo, United States"
+			}
+		],
+		"source": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+		"year": 2002,
+		"volume": 2,
+		"issue": 4,
+		"startpage": 275,
+		"endpage": 278,
+		"doi": "10.1089/153036602321653860",
+		"issn": "1530-3667",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0642309768",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0642309768&origin=inward",
+		"cites": 30,
+		"ecc": 30,
+		"rank": 131,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "The structure of a pyrophosphate-dependent phosphofructokinase from the lyme disease spirochete Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "S. Moore",
+				"affiliation": "Massey University, Palmerston North, New Zealand"
+			}
+		],
+		"source": "Structure",
+		"year": 2002,
+		"volume": 10,
+		"issue": 5,
+		"startpage": 659,
+		"endpage": 671,
+		"doi": "10.1016/S0969-2126(02)00760-8",
+		"issn": "0969-2126",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0969212602007608",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036094071",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036094071&origin=inward",
+		"cites": 30,
+		"ecc": 30,
+		"rank": 132,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Detection, characterization, and prediction of tick-borne disease foci",
+		"authors": [
+			{
+				"name": "M.R. Cortinas",
+				"affiliation": "University of Illinois Urbana-Champaign, Urbana, United States"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 11,
+		"endpage": 20,
+		"doi": "10.1016/S1438-4221(02)80003-0",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800030",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036068161",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036068161&origin=inward",
+		"cites": 30,
+		"ecc": 30,
+		"rank": 133,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Immunologic and serologic testing in patients with Ménière's disease",
+		"authors": [
+			{
+				"name": "M.J. Ruckenstein",
+				"affiliation": "Hospital of the University of Pennsylvania, Philadelphia, United States"
+			}
+		],
+		"source": "Otology and Neurotology",
+		"year": 2002,
+		"volume": 23,
+		"issue": 4,
+		"startpage": 517,
+		"endpage": 520,
+		"doi": "10.1097/00129492-200207000-00021",
+		"issn": "1531-7129",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036061953",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036061953&origin=inward",
+		"cites": 30,
+		"ecc": 30,
+		"rank": 134,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Eosinophilic fasciitis (Shulman syndrome).",
+		"authors": [
+			{
+				"name": "S. Mosconi",
+				"affiliation": "University of Bern, Bern, Switzerland"
+			}
+		],
+		"source": "Dermatology (Basel, Switzerland)",
+		"year": 2002,
+		"volume": 205,
+		"issue": 2,
+		"startpage": 204,
+		"endpage": 206,
+		"doi": "10.1159/000063916",
+		"issn": "1018-8665",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036047988",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036047988&origin=inward",
+		"cites": 30,
+		"ecc": 30,
+		"rank": 135,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Longterm decrease in the CD57 lymphocyte subset in a patient with chronic lyme disease",
+		"authors": [
+			{
+				"name": "R. Stricker",
+				"affiliation": "California Pacific Medical Center, San Francisco, United States"
+			}
+		],
+		"source": "Annals of Agricultural and Environmental Medicine",
+		"year": 2002,
+		"volume": 9,
+		"issue": 1,
+		"startpage": 111,
+		"endpage": 113,
+		"issn": "1232-1966",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036286229",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036286229&origin=inward",
+		"cites": 29,
+		"ecc": 29,
+		"rank": 136,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Prevention of tick-borne diseases",
+		"authors": [
+			{
+				"name": "M. Wilson",
+				"affiliation": "Harvard T.H. Chan School of Public Health, Boston, United States"
+			}
+		],
+		"source": "Medical Clinics of North America",
+		"year": 2002,
+		"volume": 86,
+		"issue": 2,
+		"startpage": 219,
+		"endpage": 238,
+		"doi": "10.1016/S0025-7125(03)00084-1",
+		"issn": "0025-7125",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025712503000841",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036223769",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036223769&origin=inward",
+		"cites": 29,
+		"ecc": 29,
+		"rank": 137,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Elimination of channel-forming activity by insertional inactivation of the p13 gene in Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "Y. Östberg",
+				"affiliation": "Umeå Universitet, Umea, Sweden"
+			}
+		],
+		"source": "Journal of Bacteriology",
+		"year": 2002,
+		"volume": 184,
+		"issue": 24,
+		"startpage": 6811,
+		"endpage": 6819,
+		"doi": "10.1128/JB.184.24.6811-6819.2002",
+		"issn": "0021-9193",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036947229",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036947229&origin=inward",
+		"cites": 28,
+		"ecc": 28,
+		"rank": 138,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Lymphocyte subset numbers in cerebrospinal fluid: Comparison of tick-borne encephalitis and neuroborreliosis",
+		"authors": [
+			{
+				"name": "M. Holub",
+				"affiliation": "Charles University, Prague Praha, Czech Republic"
+			}
+		],
+		"source": "Acta Neurologica Scandinavica",
+		"year": 2002,
+		"volume": 106,
+		"issue": 5,
+		"startpage": 302,
+		"endpage": 308,
+		"doi": "10.1034/j.1600-0404.2002.01314.x",
+		"issn": "0001-6314",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036837959",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036837959&origin=inward",
+		"cites": 28,
+		"ecc": 28,
+		"rank": 139,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Modulation of Borrelia burgdorferi stringent response and gene expression during extracellular growth with tick cells",
+		"authors": [
+			{
+				"name": "J. Bugrysheva",
+				"affiliation": "New York Medical College, Valhalla, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 6,
+		"startpage": 3061,
+		"endpage": 3067,
+		"doi": "10.1128/IAI.70.6.3061-3067.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036266917",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036266917&origin=inward",
+		"cites": 28,
+		"ecc": 28,
+		"rank": 140,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Modelling a discrete spatial response using generalized linear mixed models: Application to Lyme disease vectors",
+		"authors": [
+			{
+				"name": "A. Das",
+				"affiliation": "RTI International, Research Triangle Park, United States"
+			}
+		],
+		"source": "International Journal of Geographical Information Science",
+		"year": 2002,
+		"volume": 16,
+		"issue": 2,
+		"startpage": 151,
+		"endpage": 166,
+		"doi": "10.1080/13658810110099134",
+		"issn": "1365-8816",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036187277",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036187277&origin=inward",
+		"cites": 28,
+		"ecc": 28,
+		"rank": 141,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Development of autoimmunity in Lyme arthritis",
+		"authors": [
+			{
+				"name": "M. Guerau-de-Arellano",
+				"affiliation": "Tufts University School of Medicine, Boston, United States"
+			}
+		],
+		"source": "Current Opinion in Rheumatology",
+		"year": 2002,
+		"volume": 14,
+		"issue": 4,
+		"startpage": 388,
+		"endpage": 393,
+		"doi": "10.1097/00002281-200207000-00009",
+		"issn": "1040-8711",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0035985831",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0035985831&origin=inward",
+		"cites": 28,
+		"ecc": 28,
+		"rank": 142,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Borrelia burgdorferi gene expression profiling with membrane-based arrays",
+		"authors": [
+			{
+				"name": "C. Ojaimi",
+				"affiliation": "New York Medical College, Valhalla, United States"
+			}
+		],
+		"source": "Methods in Enzymology",
+		"year": 2002,
+		"volume": 358,
+		"startpage": 165,
+		"endpage": 177,
+		"doi": "10.1016/S0076-6879(02)58088-5",
+		"issn": "0076-6879",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0076687902580885",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/18744393079",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=18744393079&origin=inward",
+		"cites": 27,
+		"ecc": 27,
+		"rank": 143,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Murine lyme arthritis development mediated by p38 mitogen-activated protein kinase activity",
+		"authors": [
+			{
+				"name": "J. Anguita",
+				"affiliation": "The University of North Carolina at Charlotte, Charlotte, United States"
+			}
+		],
+		"source": "Journal of Immunology",
+		"year": 2002,
+		"volume": 168,
+		"issue": 12,
+		"startpage": 6352,
+		"endpage": 6357,
+		"doi": "10.4049/jimmunol.168.12.6352",
+		"issn": "0022-1767",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037097639",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037097639&origin=inward",
+		"cites": 27,
+		"ecc": 27,
+		"rank": 144,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Misconceptions about Lyme disease: Confusions hiding behind III-chosen terminology",
+		"authors": [
+			"L. Sigal"
+		],
+		"source": "Annals of Internal Medicine",
+		"year": 2002,
+		"volume": 136,
+		"issue": 5,
+		"startpage": 413,
+		"endpage": 419,
+		"doi": "10.7326/0003-4819-136-5-200203050-00024",
+		"issn": "0003-4819",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037022836",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037022836&origin=inward",
+		"cites": 27,
+		"ecc": 27,
+		"rank": 145,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Morphoea and Borrelia burgdorferi: Results from the Scottish Highlands in the context of the world literature",
+		"authors": [
+			{
+				"name": "J. Goodlad",
+				"affiliation": "Raigmore Hospital, Inverness, United Kingdom"
+			}
+		],
+		"source": "Journal of Clinical Pathology - Molecular Pathology",
+		"year": 2002,
+		"volume": 55,
+		"issue": 6,
+		"startpage": 374,
+		"endpage": 378,
+		"doi": "10.1136/mp.55.6.374",
+		"issn": "1366-8714",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036903599",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036903599&origin=inward",
+		"cites": 27,
+		"ecc": 27,
+		"rank": 146,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Environmental regulation and differential production of members of the Bdr protein family of Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "D. Roberts",
+				"affiliation": "Medical College of Virginia, Richmond, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 12,
+		"startpage": 7033,
+		"endpage": 7041,
+		"doi": "10.1128/IAI.70.12.7033-7041.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036892869",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036892869&origin=inward",
+		"cites": 27,
+		"ecc": 27,
+		"rank": 147,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Higher prevalence of antibodies to Borrelia burgdorferi in psychiatric patients than in healthy subjects",
+		"authors": [
+			{
+				"name": "T. Hájek",
+				"affiliation": "Národní ústav duševního zdraví Klecany, Klecany, Czech Republic"
+			}
+		],
+		"source": "American Journal of Psychiatry",
+		"year": 2002,
+		"volume": 159,
+		"issue": 2,
+		"startpage": 297,
+		"endpage": 301,
+		"doi": "10.1176/appi.ajp.159.2.297",
+		"issn": "0002-953X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036164566",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036164566&origin=inward",
+		"cites": 27,
+		"ecc": 27,
+		"rank": 148,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Seronegative Lyme arthritis caused by Borrelia garinii",
+		"authors": [
+			{
+				"name": "H. Dejmková",
+				"affiliation": "National Institute of Public Health Prague, Prague, Czech Republic"
+			}
+		],
+		"source": "Clinical Rheumatology",
+		"year": 2002,
+		"volume": 21,
+		"issue": 4,
+		"startpage": 330,
+		"endpage": 334,
+		"doi": "10.1007/s100670200087",
+		"issn": "0770-3198",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036694224",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036694224&origin=inward",
+		"cites": 26,
+		"ecc": 26,
+		"rank": 149,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Large cerebral vessel occlusive disease in Lyme neuroborreliosis",
+		"authors": [
+			{
+				"name": "R. Klingebiel",
+				"affiliation": "Charité – Universitätsmedizin Berlin, Berlin, Germany"
+			}
+		],
+		"source": "Neuropediatrics",
+		"year": 2002,
+		"volume": 33,
+		"issue": 1,
+		"startpage": 37,
+		"endpage": 40,
+		"doi": "10.1055/s-2002-23589",
+		"issn": "0174-304X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036210999",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036210999&origin=inward",
+		"cites": 26,
+		"ecc": 26,
+		"rank": 150,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Psychiatric presentations of non-HIV infectious diseases: Neurocysticercosis, Lyme disease, and pediatric autoimmune neuropsychiatric disorder associated with streptococcal infection",
+		"authors": [
+			{
+				"name": "R. Schneider",
+				"affiliation": "Medical College of Virginia, Richmond, United States"
+			}
+		],
+		"source": "Psychiatric Clinics of North America",
+		"year": 2002,
+		"volume": 25,
+		"issue": 1,
+		"startpage": 1,
+		"endpage": 16,
+		"doi": "10.1016/S0193-953X(03)00049-2",
+		"issn": "0193-953X",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0193953X03000492",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036207613",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036207613&origin=inward",
+		"cites": 26,
+		"ecc": 26,
+		"rank": 151,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "The impact of globalization and environmental change on health: Challenges for nurse education",
+		"authors": [
+			{
+				"name": "M. Kirk",
+				"affiliation": "School of Care Sciences, Pontypridd, United Kingdom"
+			}
+		],
+		"source": "Nurse Education Today",
+		"year": 2002,
+		"volume": 22,
+		"issue": 1,
+		"startpage": 60,
+		"endpage": 71,
+		"doi": "10.1054/nedt.2001.0720",
+		"issn": "0260-6917",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0260691701907208",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036187905",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036187905&origin=inward",
+		"cites": 26,
+		"ecc": 26,
+		"rank": 152,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Serologic evidence of ehrlichiosis among humans and wild animals in The Netherlands",
+		"authors": [
+			{
+				"name": "J. Groen",
+				"affiliation": "Erasmus MC, Rotterdam, Netherlands"
+			}
+		],
+		"source": "European Journal of Clinical Microbiology and Infectious Diseases",
+		"year": 2002,
+		"volume": 21,
+		"issue": 1,
+		"startpage": 46,
+		"endpage": 49,
+		"doi": "10.1007/s10096-001-0659-z",
+		"issn": "0934-9723",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036177229",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036177229&origin=inward",
+		"cites": 26,
+		"ecc": 26,
+		"rank": 153,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "The impact of ticks on pheasant territoriality",
+		"authors": [
+			{
+				"name": "A. Hoodless",
+				"affiliation": "University of Oxford, Oxford, United Kingdom"
+			}
+		],
+		"source": "Oikos",
+		"year": 2002,
+		"volume": 96,
+		"issue": 2,
+		"startpage": 245,
+		"endpage": 250,
+		"doi": "10.1034/j.1600-0706.2002.960206.x",
+		"issn": "0030-1299",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036106383",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036106383&origin=inward",
+		"cites": 26,
+		"ecc": 26,
+		"rank": 154,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Lyme borreliosis and facial paralysis - A prospective analysis of risk factors and outcome",
+		"authors": [
+			{
+				"name": "M. Peltomaa",
+				"affiliation": "National Institute for Health and Welfare, Helsinki, Finland"
+			}
+		],
+		"source": "American Journal of Otolaryngology - Head and Neck Medicine and Surgery",
+		"year": 2002,
+		"volume": 23,
+		"issue": 3,
+		"startpage": 125,
+		"endpage": 132,
+		"doi": "10.1053/ajot.2002.123434",
+		"issn": "0196-0709",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0196070902163629",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036100369",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036100369&origin=inward",
+		"cites": 26,
+		"ecc": 26,
+		"rank": 155,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "A new non-species dependent ELISA for detection of antibodies to Borrelia burgdorferi s. l. in zoo animals",
+		"authors": [
+			{
+				"name": "K. Stöbel",
+				"affiliation": "Instirut für Zoo and Wildlife Research, Berlin, Germany"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 88,
+		"endpage": 99,
+		"doi": "10.1016/S1438-4221(02)80018-2",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800182",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036061727",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036061727&origin=inward",
+		"cites": 26,
+		"ecc": 26,
+		"rank": 156,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Importance of sample preparation for molecular diagnosis of Lyme borreliosis from urine",
+		"authors": [
+			{
+				"name": "A. Bergmann",
+				"affiliation": "LKH-Universitätsklinikum Graz, Graz, Austria"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 12,
+		"startpage": 4581,
+		"endpage": 4584,
+		"doi": "10.1128/JCM.40.12.4581-4584.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/18744368443",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=18744368443&origin=inward",
+		"cites": 25,
+		"ecc": 25,
+		"rank": 157,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Diversity of Ixodes-borne Borrelia species--clinical, pathogenetic, and diagnostic implications and impact on vaccine development.",
+		"authors": [
+			{
+				"name": "A. van Dam",
+				"affiliation": "Leiden University Medical Center - LUMC, Leiden, Netherlands"
+			}
+		],
+		"source": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+		"year": 2002,
+		"volume": 2,
+		"issue": 4,
+		"startpage": 249,
+		"endpage": 254,
+		"doi": "10.1089/153036602321653833",
+		"issn": "1530-3667",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0642279305",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0642279305&origin=inward",
+		"cites": 25,
+		"ecc": 25,
+		"rank": 158,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Bacterial pathogen genomics and vaccines",
+		"authors": [
+			{
+				"name": "R. Moxon",
+				"affiliation": "University of Oxford Medical Sciences Division, Oxford, United Kingdom"
+			}
+		],
+		"source": "British Medical Bulletin",
+		"year": 2002,
+		"volume": 62,
+		"issue": 1,
+		"startpage": 45,
+		"endpage": 58,
+		"doi": "10.1093/bmb/62.1.45",
+		"issn": "0007-1420",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036329868",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036329868&origin=inward",
+		"cites": 25,
+		"ecc": 25,
+		"rank": 159,
+		"use": true
+	},
+	{
+		"type": "Conference Paper",
+		"title": "Standardised in vitro susceptibility testing of Borrelia burgdorferi against well-known and newly developed antimicrobial agents - Possible implications for new therapeutic approaches to lyme disease",
+		"authors": [
+			{
+				"name": "K. Hunfeld",
+				"affiliation": "Universitätsklinikum Frankfurt, Frankfurt am Main, Germany"
+			}
+		],
+		"source": "International Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 291,
+		"startpage": 125,
+		"endpage": 137,
+		"doi": "10.1016/S1438-4221(02)80024-8",
+		"issn": "1438-4221",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1438422102800248",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036066331",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036066331&origin=inward",
+		"cites": 25,
+		"ecc": 25,
+		"rank": 160,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Repellency and efficacy of 65% permethrin and selamectin spot-on formulations against Ixodes ricinus ticks on dogs",
+		"authors": [
+			{
+				"name": "R. Endris",
+				"affiliation": "Merck &amp; Co., Inc., Kenilworth, United States"
+			}
+		],
+		"source": "Veterinary Therapeutics",
+		"year": 2002,
+		"volume": 3,
+		"issue": 1,
+		"issn": "1528-3593",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/79251523881",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=79251523881&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 161,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Children with multiple erythema migrans: Are there any pre-treatment symptoms and/or signs suggestive for central nervous system involvement?",
+		"authors": [
+			{
+				"name": "M. Arnež",
+				"affiliation": "Univerzitetni Klinični Center Ljubljana, Ljubljana, Slovenia"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 524,
+		"endpage": 529,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205666",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205666&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 162,
+		"use": true
+	},
+	{
+		"type": "Conference Paper",
+		"title": "Overview of the needs and realities for developing new and improved vaccines in the 21st century",
+		"authors": [
+			{
+				"name": "M. Hilleman",
+				"affiliation": "Merck &amp; Co., Inc., Kenilworth, United States"
+			}
+		],
+		"source": "Intervirology",
+		"year": 2002,
+		"volume": 45,
+		"issue": 4,
+		"startpage": 199,
+		"endpage": 211,
+		"doi": "10.1159/000067911",
+		"issn": "0300-5526",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036983181",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036983181&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 163,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Acrodermatitis chronica atrophicans affecting all four limbs in an 11-year-old girl",
+		"authors": [
+			{
+				"name": "I. Brzonova",
+				"affiliation": "Fakultní Nemocnice v Motole, Prague, Czech Republic"
+			}
+		],
+		"source": "British Journal of Dermatology",
+		"year": 2002,
+		"volume": 147,
+		"issue": 2,
+		"startpage": 375,
+		"endpage": 378,
+		"doi": "10.1046/j.1365-2133.2002.04792.x",
+		"issn": "0007-0963",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036378066",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036378066&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 164,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Erythema migrans",
+		"authors": [
+			{
+				"name": "J. Edlow",
+				"affiliation": "Beth Israel Deaconess Medical Center, Boston, United States"
+			}
+		],
+		"source": "Medical Clinics of North America",
+		"year": 2002,
+		"volume": 86,
+		"issue": 2,
+		"startpage": 239,
+		"endpage": 260,
+		"doi": "10.1016/S0025-7125(03)00085-3",
+		"issn": "0025-7125",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0025712503000853",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036227661",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036227661&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 165,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Lyme disease and current aspects of immunization",
+		"authors": [
+			{
+				"name": "T. Kamradt",
+				"affiliation": "Medizinische Univ. m.S. Rheumatol., Berlin, Germany"
+			}
+		],
+		"source": "Arthritis Research",
+		"year": 2002,
+		"volume": 4,
+		"issue": 1,
+		"startpage": 20,
+		"endpage": 29,
+		"doi": "10.1186/ar379",
+		"issn": "1465-9905",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036156456",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036156456&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 166,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Efficacy of short-course ceftriaxone therapy for Borrelia burgdorferi infection in C3H mice",
+		"authors": [
+			{
+				"name": "C. Pavia",
+				"affiliation": "New York Medical College, Valhalla, United States"
+			}
+		],
+		"source": "Antimicrobial Agents and Chemotherapy",
+		"year": 2002,
+		"volume": 46,
+		"issue": 1,
+		"startpage": 132,
+		"endpage": 134,
+		"doi": "10.1128/AAC.46.1.132-134.2002",
+		"issn": "0066-4804",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036136839",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036136839&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 167,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Orbital lyme disease: MR imaging before and after treatment: Case report",
+		"authors": [
+			{
+				"name": "G. Fatterpekar",
+				"affiliation": "The Mount Sinai Hospital, New York, United States"
+			}
+		],
+		"source": "American Journal of Neuroradiology",
+		"year": 2002,
+		"volume": 23,
+		"issue": 4,
+		"startpage": 657,
+		"endpage": 659,
+		"issn": "0195-6108",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036117727",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036117727&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 168,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Cerebral metabolic changes associated with Lyme disease",
+		"authors": [
+			{
+				"name": "A. Newberg",
+				"affiliation": "Hospital of the University of Pennsylvania, Philadelphia, United States"
+			}
+		],
+		"source": "Nuclear Medicine Communications",
+		"year": 2002,
+		"volume": 23,
+		"issue": 8,
+		"startpage": 773,
+		"endpage": 777,
+		"doi": "10.1097/00006231-200208000-00011",
+		"issn": "0143-3636",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0035991808",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0035991808&origin=inward",
+		"cites": 24,
+		"ecc": 24,
+		"rank": 169,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Quality of Lyme disease serology: Lessons from the German Proficiency Testing Program 1999-2001. A preliminary report",
+		"authors": [
+			{
+				"name": "K.P. Hunfeld",
+				"affiliation": "Universitätsklinikum Frankfurt, Frankfurt am Main, Germany"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 591,
+		"endpage": 600,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205674",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205674&origin=inward",
+		"cites": 23,
+		"ecc": 23,
+		"rank": 170,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Inflammatory causes of gastroparesis: Report of five cases",
+		"authors": [
+			{
+				"name": "H. Pande",
+				"affiliation": "Johns Hopkins School of Medicine, Baltimore, United States"
+			}
+		],
+		"source": "Digestive Diseases and Sciences",
+		"year": 2002,
+		"volume": 47,
+		"issue": 12,
+		"startpage": 2664,
+		"endpage": 2668,
+		"doi": "10.1023/A:1021036601462",
+		"issn": "0163-2116",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036911874",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036911874&origin=inward",
+		"cites": 23,
+		"ecc": 23,
+		"rank": 171,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Bell's Palsy and Herpesviruses",
+		"authors": [
+			"S. Gilbert"
+		],
+		"source": "Herpes",
+		"year": 2002,
+		"volume": 9,
+		"issue": 3,
+		"startpage": 70,
+		"endpage": 73,
+		"issn": "0969-7667",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036884213",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036884213&origin=inward",
+		"cites": 23,
+		"ecc": 23,
+		"rank": 172,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Increased expression of B-lymphocyte chemoattractant, but not pro-inflammatory cytokines, in muscle tissue in rhesus chronic Lyme borreliosis",
+		"authors": [
+			{
+				"name": "A.R. Pachner",
+				"affiliation": "Rutgers New Jersey Medical School, Newark, United States"
+			}
+		],
+		"source": "Cytokine",
+		"year": 2002,
+		"volume": 19,
+		"issue": 6,
+		"startpage": 297,
+		"endpage": 307,
+		"doi": "10.1006/cyto.2002.1973",
+		"issn": "1043-4666",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S1043466602919733",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036433017",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036433017&origin=inward",
+		"cites": 23,
+		"ecc": 23,
+		"rank": 173,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Vaccine programmes and policies",
+		"authors": [
+			"D. Salisbury"
+		],
+		"source": "British Medical Bulletin",
+		"year": 2002,
+		"volume": 62,
+		"startpage": 201,
+		"endpage": 211,
+		"doi": "10.1093/bmb/62.1.201",
+		"issn": "0007-1420",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036329168",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036329168&origin=inward",
+		"cites": 23,
+		"ecc": 23,
+		"rank": 174,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Recombinant BBK32 protein in serodiagnosis of early and late Lyme borreliosis",
+		"authors": [
+			{
+				"name": "T. Heikkilä",
+				"affiliation": "Helsingin Yliopisto, Helsinki, Finland"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 4,
+		"startpage": 1174,
+		"endpage": 1180,
+		"doi": "10.1128/JCM.40.4.1174-1180.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036209982",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036209982&origin=inward",
+		"cites": 23,
+		"ecc": 23,
+		"rank": 175,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Host-pathogen interactions and the pathogenesis of murine Lyme disease",
+		"authors": [
+			{
+				"name": "J.J. Weis",
+				"affiliation": "The University of Utah, Salt Lake City, United States"
+			}
+		],
+		"source": "Current Opinion in Rheumatology",
+		"year": 2002,
+		"volume": 14,
+		"issue": 4,
+		"startpage": 399,
+		"endpage": 403,
+		"doi": "10.1097/00002281-200207000-00011",
+		"issn": "1040-8711",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0035985861",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0035985861&origin=inward",
+		"cites": 23,
+		"ecc": 23,
+		"rank": 176,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Prevalence of coinfection with Francisella tularensis in reservoir animals of Borrelia burgdorferi sensu lato",
+		"authors": [
+			{
+				"name": "V. Výrosteková",
+				"affiliation": "Univerzita Komenského v Bratislave, Bratislava, Slovakia"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 482,
+		"endpage": 488,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205654",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205654&origin=inward",
+		"cites": 22,
+		"ecc": 22,
+		"rank": 177,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Risk of acquiring tick bites in South-eastern Sweden",
+		"authors": [
+			{
+				"name": "L. Stjernberg",
+				"affiliation": "Lunds Universitet, Lund, Sweden"
+			}
+		],
+		"source": "Scandinavian Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 34,
+		"issue": 11,
+		"startpage": 840,
+		"endpage": 844,
+		"doi": "10.1080/0036554021000026955",
+		"issn": "0036-5548",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036968497",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036968497&origin=inward",
+		"cites": 22,
+		"ecc": 22,
+		"rank": 178,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Neuropsychological functioning in chronic lyme disease",
+		"authors": [
+			{
+				"name": "H. Westervelt",
+				"affiliation": "Rhode Island Hospital, Providence, United States"
+			}
+		],
+		"source": "Neuropsychology Review",
+		"year": 2002,
+		"volume": 12,
+		"issue": 3,
+		"startpage": 153,
+		"endpage": 177,
+		"doi": "10.1023/A:1020381913563",
+		"issn": "1040-7308",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036727908",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036727908&origin=inward",
+		"cites": 22,
+		"ecc": 22,
+		"rank": 179,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Lyme disease knowledge, beliefs, and practices of New Hampshire primary care physicians",
+		"authors": [
+			{
+				"name": "J.M. Magri",
+				"affiliation": "Centers for Disease Control and Prevention, Atlanta, United States"
+			}
+		],
+		"source": "Journal of the American Board of Family Practice",
+		"year": 2002,
+		"volume": 15,
+		"issue": 4,
+		"startpage": 277,
+		"endpage": 284,
+		"issn": "0893-8652",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036632241",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036632241&origin=inward",
+		"cites": 22,
+		"ecc": 22,
+		"rank": 180,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Infection screening in sudden and progressive idiopathic sensorineural hearing loss: A retrospective study of 182 cases",
+		"authors": [
+			{
+				"name": "J. Gagnebin",
+				"affiliation": "Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland"
+			}
+		],
+		"source": "Otology and Neurotology",
+		"year": 2002,
+		"volume": 23,
+		"issue": 2,
+		"startpage": 160,
+		"endpage": 162,
+		"doi": "10.1097/00129492-200203000-00010",
+		"issn": "1531-7129",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036193175",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036193175&origin=inward",
+		"cites": 22,
+		"ecc": 22,
+		"rank": 181,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Evaluation of immunofluorescence test (IFT) and immuno (western) blot (WB) test in patients with erythema migrans",
+		"authors": [
+			{
+				"name": "E. Ružić-Sabljić",
+				"affiliation": "Univerza v Ljubljani, Ljubljana, Slovenia"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 586,
+		"endpage": 590,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205675",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205675&origin=inward",
+		"cites": 21,
+		"ecc": 21,
+		"rank": 182,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "A 55-year-old man with second-degree atrioventricular block and chest pain",
+		"authors": [
+			"R.J. Hajjar"
+		],
+		"source": "New England Journal of Medicine",
+		"year": 2002,
+		"volume": 346,
+		"issue": 22,
+		"startpage": 1732,
+		"endpage": 1738,
+		"doi": "10.1056/NEJMcpc020017",
+		"issn": "0028-4793",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037198741",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037198741&origin=inward",
+		"cites": 21,
+		"ecc": 21,
+		"rank": 183,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Positive findings of Borrelia burgdorferi in Culex (Culex) pipiens pipiens larvae in the surrounding of Brno city determined by the PCR method",
+		"authors": [
+			{
+				"name": "A. Žávská",
+				"affiliation": "Masarykova Univerzita, Brno, Czech Republic"
+			}
+		],
+		"source": "Annals of Agriculture and Environmental Medicine",
+		"year": 2002,
+		"volume": 9,
+		"issue": 2,
+		"startpage": 257,
+		"endpage": 259,
+		"issn": "1232-1966",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036912761",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036912761&origin=inward",
+		"cites": 21,
+		"ecc": 21,
+		"rank": 184,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Recombinant OspC from Borrelia burgdorferi sensu stricto, B. afzelii and B. garinii in the serodiagnosis of Lyme borreliosis",
+		"authors": [
+			{
+				"name": "J. Panelius",
+				"affiliation": "Helsinki University Hospital, Helsinki, Finland"
+			}
+		],
+		"source": "Journal of Medical Microbiology",
+		"year": 2002,
+		"volume": 51,
+		"issue": 9,
+		"startpage": 731,
+		"endpage": 739,
+		"doi": "10.1099/0022-1317-51-9-731",
+		"issn": "0022-2615",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036736490",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036736490&origin=inward",
+		"cites": 21,
+		"ecc": 21,
+		"rank": 185,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Cost-effectiveness analysis of the Lyme disease vaccine",
+		"authors": [
+			{
+				"name": "E.C. Hsia",
+				"affiliation": "University of Pennsylvania, Philadelphia, United States"
+			}
+		],
+		"source": "Arthritis and Rheumatism",
+		"year": 2002,
+		"volume": 46,
+		"issue": 6,
+		"startpage": 1651,
+		"endpage": 1660,
+		"doi": "10.1002/art.10270",
+		"issn": "0004-3591",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036269163",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036269163&origin=inward",
+		"cites": 21,
+		"ecc": 21,
+		"rank": 186,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Central nervous system involvement in patients with HCV-related cryoglobulinemia: literature review and a case report",
+		"authors": [
+			{
+				"name": "D. Filippini",
+				"affiliation": "Ospedale Niguarda Ca'Granda, Milan, Italy"
+			}
+		],
+		"source": "Reumatismo",
+		"year": 2002,
+		"volume": 54,
+		"issue": 2,
+		"startpage": 150,
+		"endpage": 155,
+		"issn": "0048-7449",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036547680",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036547680&origin=inward",
+		"cites": 20,
+		"ecc": 20,
+		"rank": 187,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Reinfection with lyme borreliosis: A retrospective follow-up study in southern Sweden",
+		"authors": [
+			{
+				"name": "L. Bennet",
+				"affiliation": "Lyckeby Health Centre, Lyckeby, Sweden"
+			}
+		],
+		"source": "Scandinavian Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 34,
+		"issue": 3,
+		"startpage": 183,
+		"endpage": 186,
+		"doi": "10.1080/00365540110080070",
+		"issn": "0036-5548",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036215526",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036215526&origin=inward",
+		"cites": 20,
+		"ecc": 20,
+		"rank": 188,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Limitation of serological testing for Lyme borreliosis: Evaluation of ELISA and Western blot in comparison with PCR and culture methods",
+		"authors": [
+			{
+				"name": "S. Tylewska-Wierzbanowska",
+				"affiliation": "National Institute of Public Health - National Institute of Hygiene (NIPH - NIH), Warsaw, Poland"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 601,
+		"endpage": 605,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205676",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205676&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 189,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Cystic forms of Borrelia burgdorferi sensu lato: Induction, development, and the role of RpoS",
+		"authors": [
+			{
+				"name": "R. Murgia",
+				"affiliation": "Università degli Studi di Trieste, Trieste, Italy"
+			}
+		],
+		"source": "Wiener Klinische Wochenschrift",
+		"year": 2002,
+		"volume": 114,
+		"issue": 13,
+		"startpage": 574,
+		"endpage": 579,
+		"issn": "0043-5325",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037205670",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037205670&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 190,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Approaches toward the directed design of a vaccine against Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "B. Luft",
+				"affiliation": "Renaissance School of Medicine at Stony Brook University, Stony Brook, United States"
+			}
+		],
+		"source": "Journal of Infectious Diseases",
+		"year": 2002,
+		"volume": 185,
+		"doi": "10.1086/338463",
+		"issn": "0022-1899",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037083176",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037083176&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 191,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Backbone dynamics and thermodynamics of Borrelia outer surface protein A",
+		"authors": [
+			{
+				"name": "N.H. Pawley",
+				"affiliation": "Cornell University, Ithaca, United States"
+			}
+		],
+		"source": "Journal of Molecular Biology",
+		"year": 2002,
+		"volume": 324,
+		"issue": 5,
+		"startpage": 991,
+		"endpage": 1002,
+		"doi": "10.1016/S0022-2836(02)01146-4",
+		"issn": "0022-2836",
+		"article_url": "https://api.elsevier.com/content/article/eid/1-s2.0-S0022283602011464",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0037073474",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0037073474&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 192,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Humoral immune response associated with Lyme borreliosis in nonhuman primates: Analysis by immunoblotting and enzyme-linked immunosorbent assay with sonicates or recombinant proteins",
+		"authors": [
+			{
+				"name": "A. Pachner",
+				"affiliation": "Rutgers New Jersey Medical School, Newark, United States"
+			}
+		],
+		"source": "Clinical and Diagnostic Laboratory Immunology",
+		"year": 2002,
+		"volume": 9,
+		"issue": 6,
+		"startpage": 1348,
+		"endpage": 1355,
+		"doi": "10.1128/CDLI.9.6.1348-1355.2002",
+		"issn": "1071-412X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036842659",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036842659&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 193,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Intracranial hypertension in neuroborreliosis",
+		"authors": [
+			{
+				"name": "C. Härtel",
+				"affiliation": "Universität zu Lübeck, Lübeck, Germany"
+			}
+		],
+		"source": "Developmental Medicine and Child Neurology",
+		"year": 2002,
+		"volume": 44,
+		"issue": 9,
+		"startpage": 641,
+		"endpage": 642,
+		"doi": "10.1017/S0012162201002687",
+		"issn": "0012-1622",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036731708",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036731708&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 194,
+		"use": true
+	},
+	{
+		"type": "Review",
+		"title": "Rheumatic mimics and selected triggers of fibromyalgia.",
+		"authors": [
+			{
+				"name": "K.F. Daoud",
+				"affiliation": "Oregon Health &amp; Science University, Portland, United States"
+			}
+		],
+		"source": "Current pain and headache reports",
+		"year": 2002,
+		"volume": 6,
+		"issue": 4,
+		"startpage": 284,
+		"endpage": 288,
+		"doi": "10.1007/s11916-002-0049-y",
+		"issn": "1531-3433",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036689949",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036689949&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 195,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Prevalence of Borrelia burgdorferi sensu lato infection among rodents and host-seeking ticks in South Carolina",
+		"authors": [
+			{
+				"name": "K.L. Clark",
+				"affiliation": "University of North Florida, Jacksonville, United States"
+			}
+		],
+		"source": "Journal of Medical Entomology",
+		"year": 2002,
+		"volume": 39,
+		"issue": 1,
+		"startpage": 198,
+		"endpage": 206,
+		"doi": "10.1603/0022-2585-39.1.198",
+		"issn": "0022-2585",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036364837",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036364837&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 196,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Seroprevalence of human granulocytic ehrlichiosis infection in Belgium",
+		"authors": [
+			{
+				"name": "B. Guillaume",
+				"affiliation": "Université Catholique de Louvain, Louvain-la-Neuve, Belgium"
+			}
+		],
+		"source": "European Journal of Clinical Microbiology and Infectious Diseases",
+		"year": 2002,
+		"volume": 21,
+		"issue": 5,
+		"startpage": 397,
+		"endpage": 400,
+		"doi": "10.1007/s10096-002-0720-6",
+		"issn": "0934-9723",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036323079",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036323079&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 197,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Reassessment of a midwestern Lyme disease focus for Borrelia burgdorferi and the human granulocytic ehrlichiosis agent",
+		"authors": [
+			{
+				"name": "C. Jackson",
+				"affiliation": "Gundersen Lutheran Medical Center, La Crosse, United States"
+			}
+		],
+		"source": "Journal of Clinical Microbiology",
+		"year": 2002,
+		"volume": 40,
+		"issue": 6,
+		"startpage": 2070,
+		"endpage": 2073,
+		"doi": "10.1128/JCM.40.6.2070-2073.2002",
+		"issn": "0095-1137",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036259881",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036259881&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 198,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Role of osteopontin in murine lyme arthritis and host defense against Borrelia burgdorferi",
+		"authors": [
+			{
+				"name": "M. Potter",
+				"affiliation": "University of Utah School of Medicine, Salt Lake City, United States"
+			}
+		],
+		"source": "Infection and Immunity",
+		"year": 2002,
+		"volume": 70,
+		"issue": 3,
+		"startpage": 1372,
+		"endpage": 1381,
+		"doi": "10.1128/IAI.70.3.1372-1381.2002",
+		"issn": "0019-9567",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036182431",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036182431&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 199,
+		"use": true
+	},
+	{
+		"type": "Article",
+		"title": "Ability of the borreliacidal antibody test to confirm Lyme disease in clinical practice",
+		"authors": [
+			{
+				"name": "S. Callister",
+				"affiliation": "Gundersen Lutheran Medical Center, La Crosse, United States"
+			}
+		],
+		"source": "Clinical and Diagnostic Laboratory Immunology",
+		"year": 2002,
+		"volume": 9,
+		"issue": 4,
+		"startpage": 908,
+		"endpage": 912,
+		"doi": "10.1128/CDLI.9.4.908-912.2002",
+		"issn": "1071-412X",
+		"citation_url": "https://api.elsevier.com/content/abstract/scopus_id/0036067299",
+		"cites_url": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0036067299&origin=inward",
+		"cites": 19,
+		"ecc": 19,
+		"rank": 200,
+		"use": true
+	}
+]
